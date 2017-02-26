@@ -16,20 +16,20 @@ Each vote was assigned a score as below
 
 ## Computation:
 
-First: A Distance Matrix calculation presented the votes for each pair of countries relative to each other.
+All data computations were performed using [Knime analytics](https://www.knime.org/knime-analytics-platform), an open platform providing a comprehensite toolbox for data analysis.
 
-Third: Votes were divided by topic based on the parsing of the title text field. Four topics with significant votes were identified:
+First, votes were divided by topic based on the parsing of the title text field. Four topics with significant votes were identified:
   - Disarmament
   - Palestine
   - Non-proliferation
   - Human Rights
+  
+Votes were then computed into a Distance Matrix, presenting the distance between countries for a partiular topic into a square matrix. 
 
-Third: [MDS (Multidimensional Scaling)](https://en.wikipedia.org/wiki/Multidimensional_scaling) was used to map multidimension space into a two dimension space.
+Finally, [MDS (Multidimensional Scaling)](https://en.wikipedia.org/wiki/Multidimensional_scaling) was used to map the distance matrix into a two dimension space.
 
-Fifth: The result by topic is presented on a single graph, letting the user
-**This Git contains** the source code to 
+The result by topic is presented on a single graph, letting the user visualize.
 
-[Run Working Demo here](https://ddabruneel.github.io/scatterplot.html)
 
 
 - Computation: Knime Analytics
