@@ -1,0 +1,769 @@
+Theme,CountryCode,CountryName,Region,DevelopmentStatus,LeastDevelopedCountries,LandlockedDevelopingCountries,SmallIslandDevelopingState,Membership,Col1,Col2
+Disarmament,BHR,Bahrain,Western Asia,developing country,,,,,-3.5,10.6
+Disarmament,BRA,Brazil,South America,developing country,,,,,-6.6,10.3
+Disarmament,CHN,China,Eastern Asia,developing country,,,,PM,-3.5,10.8
+Disarmament,CRI,Costa Rica,Central America,developing country,,,,,-5,11.4
+Disarmament,FRA,France,Western Europe,developed country,,,,PM,-9.6,6.8
+Disarmament,GAB,Gabon,Middle Africa,developing country,,,,,-1.7,9.4
+Disarmament,GMB,Gambia,Western Africa,developing country,Least developed country,,,,-3.5,5.9
+Disarmament,JPN,Japan,Eastern Asia,developed country,,,,,-8,9.4
+Disarmament,KEN,Kenya,Eastern Africa,developing country,,,,,-6.3,12.4
+Disarmament,PRT,Portugal,Southern Europe,developed country,,,,,-9.4,9.2
+Disarmament,RUS,Russian Federation,Eastern Europe,developed country,,,,PM,-7.9,12.8
+Disarmament,SVN,Slovenia,Southern Europe,developed country,,,,,-9.4,9.2
+Disarmament,SWE,Sweden,Northern Europe,developed country,,,,,-9.4,9.2
+Disarmament,GBR,United Kingdom of Great Britain and Northern Ireland,Northern Europe,developed country,,,,PM,-9.6,7
+Disarmament,USA,United States of America,Northern America,developed country,,,,PM,-9.1,-1
+Disarmament,AFG,Afghanistan,Southern Asia,developing country,Least developed country,Landlocked developing country,,,-5.1,10.6
+Disarmament,ALB,Albania,Southern Europe,developed country,,,,,-9.3,8.7
+Disarmament,DZA,Algeria,Northern Africa,developing country,,,,,-5,11.4
+Disarmament,AND,Andorra,Southern Europe,developed country,,,,,-9.6,9.6
+Disarmament,AGO,Angola,Middle Africa,developing country,Least developed country,,,,-2.7,7.8
+Disarmament,ATG,Antigua and Barbuda,Caribbean,developing country,,,Small island developing State,,-4.5,8.7
+Disarmament,ARG,Argentina,South America,developing country,,,,,-6.9,10.2
+Disarmament,ARM,Armenia,Western Asia,developing country,,Landlocked developing country,,,-6.8,9.4
+Disarmament,AUS,Australia,Australia and New Zealand,developed country,,,,,-9.3,8.7
+Disarmament,AUT,Austria,Western Europe,developed country,,,,,-9.4,9.2
+Disarmament,AZE,Azerbaijan,Western Asia,developing country,,Landlocked developing country,,,-6.8,9.6
+Disarmament,BHS,Bahamas,Caribbean,developing country,,,Small island developing State,,-4.5,10.7
+Disarmament,BGD,Bangladesh,Southern Asia,developing country,Least developed country,,,,-5.2,11.8
+Disarmament,BRB,Barbados,Caribbean,developing country,,,Small island developing State,,-5.5,11
+Disarmament,BLR,Belarus,Eastern Europe,developed country,,,,,-7.2,11.2
+Disarmament,BEL,Belgium,Western Europe,developed country,,,,,-9.4,9.6
+Disarmament,BLZ,Belize,Central America,developing country,,,Small island developing State,,-4.2,9.5
+Disarmament,BEN,Benin,Western Africa,developing country,Least developed country,,,,-5.7,7.8
+Disarmament,BTN,Bhutan,Southern Asia,developing country,Least developed country,Landlocked developing country,,,-1.4,8.9
+Disarmament,BOL,Bolivia (Plurinational State of),South America,developing country,,Landlocked developing country,,,-0.5,9.1
+Disarmament,BIH,Bosnia and Herzegovina,Southern Europe,developed country,,,,,-9.3,8.5
+Disarmament,BWA,Botswana,Southern Africa,developing country,,Landlocked developing country,,,-5.1,7.8
+Disarmament,BRN,Brunei Darussalam,South-Eastern Asia,developing country,,,,,-5,11.4
+Disarmament,BGR,Bulgaria,Eastern Europe,developed country,,,,,-9.7,9.5
+Disarmament,BFA,Burkina Faso,Western Africa,developing country,Least developed country,Landlocked developing country,,,-4.8,12
+Disarmament,BDI,Burundi,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,-1.8,11.4
+Disarmament,KHM,Cambodia,South-Eastern Asia,developing country,Least developed country,,,,-4.6,10.5
+Disarmament,CMR,Cameroon,Middle Africa,developing country,,,,,-5,12
+Disarmament,CAN,Canada,Northern America,developed country,,,,,-9.2,8.1
+Disarmament,CAF,Central African Republic,Middle Africa,developing country,Least developed country,Landlocked developing country,,,-2,6.9
+Disarmament,TCD,Chad,Middle Africa,developing country,Least developed country,Landlocked developing country,,,-4.7,4.1
+Disarmament,CHL,Chile,South America,developing country,,,,,-5.5,11.4
+Disarmament,COL,Colombia,South America,developing country,,,,,-4.8,11
+Disarmament,COM,Comoros,Eastern Africa,developing country,Least developed country,,Small island developing State,,-6.8,12.8
+Disarmament,COG,Congo,Middle Africa,developing country,,,,,-5.8,10.4
+Disarmament,CIV,Côte d'Ivoire,Western Africa,developing country,,,,,-5,10.3
+Disarmament,HRV,Croatia,Southern Europe,developed country,,,,,-9.4,9.2
+Disarmament,CUB,Cuba,Caribbean,developing country,,,Small island developing State,,-1.5,10.3
+Disarmament,CYP,Cyprus,Western Asia,developing country,,,,,-9.4,9.2
+Disarmament,CZE,Czechia,Eastern Europe,developed country,,,,,-9.5,8.7
+Disarmament,PRK,Democratic People's Republic of Korea,Eastern Asia,developing country,,,,,-0.9,10.2
+Disarmament,COD,Democratic Republic of the Congo,Middle Africa,developing country,Least developed country,,,,-2.5,5.2
+Disarmament,DNK,Denmark,Northern Europe,developed country,,,,,-9.4,9.2
+Disarmament,DJI,Djibouti,Eastern Africa,developing country,Least developed country,,,,-5,11.4
+Disarmament,DMA,Dominica,Caribbean,developing country,,,Small island developing State,,-2.7,5.7
+Disarmament,DOM,Dominican Republic,Caribbean,developing country,,,Small island developing State,,-4.5,11.5
+Disarmament,ECU,Ecuador,South America,developing country,,,,,-3.8,11.8
+Disarmament,EGY,Egypt,Northern Africa,developing country,,,,,-3,11.1
+Disarmament,SLV,El Salvador,Central America,developing country,,,,,-4.2,10.8
+Disarmament,GNQ,Equatorial Guinea,Middle Africa,developing country,Least developed country,,,,-2.8,4.1
+Disarmament,ERI,Eritrea,Eastern Africa,developing country,Least developed country,,,,-4.1,12.4
+Disarmament,EST,Estonia,Northern Europe,developed country,,,,,-9.4,9.2
+Disarmament,ETH,Ethiopia,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,-4.6,12.6
+Disarmament,FJI,Fiji,Melanesia,developing country,,,Small island developing State,,-2.9,9.6
+Disarmament,FIN,Finland,Northern Europe,developed country,,,,,-9.4,9.2
+Disarmament,GEO,Georgia,Western Asia,developing country,,,,,-8.7,7.8
+Disarmament,DEU,Germany,Western Europe,developed country,,,,,-9.4,8.7
+Disarmament,GHA,Ghana,Western Africa,developing country,,,,,-4.5,10.9
+Disarmament,GRC,Greece,Southern Europe,developed country,,,,,-9.4,9.2
+Disarmament,GRD,Grenada,Caribbean,developing country,,,Small island developing State,,-4.8,12.3
+Disarmament,GTM,Guatemala,Central America,developing country,,,,,-4.8,11
+Disarmament,GIN,Guinea,Western Africa,developing country,Least developed country,,,,-5.5,12.7
+Disarmament,GNB,Guinea-Bissau,Western Africa,developing country,Least developed country,,Small island developing State,,-4.5,6.8
+Disarmament,GUY,Guyana,South America,developing country,,,Small island developing State,,-4.5,10.7
+Disarmament,HTI,Haiti,Caribbean,developing country,Least developed country,,Small island developing State,,-5.6,13.2
+Disarmament,HND,Honduras,Central America,developing country,,,,,-4.8,11
+Disarmament,HUN,Hungary,Eastern Europe,developed country,,,,,-9.4,9.2
+Disarmament,ISL,Iceland,Northern Europe,developed country,,,,,-9.4,9.2
+Disarmament,IND,India,Southern Asia,developing country,,,,,2.1,7.1
+Disarmament,IDN,Indonesia,South-Eastern Asia,developing country,,,,,-3.8,11.8
+Disarmament,IRN,Iran (Islamic Republic of),Southern Asia,developing country,,,,,-2.4,11.7
+Disarmament,IRQ,Iraq,Western Asia,developing country,,,,,-4.5,7.3
+Disarmament,IRL,Ireland,Northern Europe,developed country,,,,,-9.8,9.9
+Disarmament,ISR,Israel,Western Asia,developing country,,,,,-9.6,3.5
+Disarmament,ITA,Italy,Southern Europe,developed country,,,,,-9.9,10
+Disarmament,JAM,Jamaica,Caribbean,developing country,,,Small island developing State,,-4.7,11.6
+Disarmament,JOR,Jordan,Western Asia,developing country,,,,,-5,11.4
+Disarmament,KWT,Kuwait,Western Asia,developing country,,,,,-2.8,11.1
+Disarmament,KGZ,Kyrgyzstan,Central Asia,developing country,,Landlocked developing country,,,-6.4,8.7
+Disarmament,LAO,Lao People's Democratic Republic,South-Eastern Asia,developing country,Least developed country,Landlocked developing country,,,-1.2,9.6
+Disarmament,LVA,Latvia,Northern Europe,developed country,,,,,-9.2,9.9
+Disarmament,LBN,Lebanon,Western Asia,developing country,,,,,-4.8,11
+Disarmament,LSO,Lesotho,Southern Africa,developing country,Least developed country,Landlocked developing country,,,-4.8,11
+Disarmament,LBR,Liberia,Western Africa,developing country,Least developed country,,,,-4.5,7.7
+Disarmament,LIE,Liechtenstein,Western Europe,developed country,,,,,-9.4,9.2
+Disarmament,LTU,Lithuania,Northern Europe,developed country,,,,,-9.4,9.2
+Disarmament,LUX,Luxembourg,Western Europe,developed country,,,,,-9.4,9.2
+Disarmament,MDG,Madagascar,Eastern Africa,developing country,Least developed country,,,,-3.7,8.5
+Disarmament,MWI,Malawi,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,-6.2,11.4
+Disarmament,MYS,Malaysia,South-Eastern Asia,developing country,,,,,-5,11.4
+Disarmament,MDV,Maldives,Southern Asia,developing country,,,Small island developing State,,-4.8,11
+Disarmament,MLI,Mali,Western Africa,developing country,Least developed country,Landlocked developing country,,,-4.5,11.3
+Disarmament,MLT,Malta,Southern Europe,developed country,,,,,-9.4,9.2
+Disarmament,MHL,Marshall Islands,Micronesia,developing country,,,Small island developing State,,-7.5,6.5
+Disarmament,MRT,Mauritania,Western Africa,developing country,Least developed country,,,,-5.3,12.8
+Disarmament,MUS,Mauritius,Eastern Africa,developing country,,,Small island developing State,,-5,11.4
+Disarmament,MEX,Mexico,Central America,developing country,,,,,-5,11.4
+Disarmament,FSM,Micronesia (Federated States of),Micronesia,developing country,,,Small island developing State,,-9,6.9
+Disarmament,MCO,Monaco,Western Europe,developed country,,,,,-9.7,9.2
+Disarmament,MNG,Mongolia,Eastern Asia,developing country,,Landlocked developing country,,,-5,11.4
+Disarmament,MAR,Morocco,Northern Africa,developing country,,,,,-5,12.1
+Disarmament,MOZ,Mozambique,Eastern Africa,developing country,Least developed country,,,,-5.9,12.7
+Disarmament,MMR,Myanmar,South-Eastern Asia,developing country,Least developed country,,,,-3.8,12.1
+Disarmament,NAM,Namibia,Southern Africa,developing country,,,,,-6,12.3
+Disarmament,NPL,Nepal,Southern Asia,developing country,Least developed country,Landlocked developing country,,,-4.4,10.9
+Disarmament,NLD,Netherlands,Western Europe,developed country,,,,,-9.4,9.2
+Disarmament,NZL,New Zealand,Australia and New Zealand,developed country,,,,,-9.4,9.6
+Disarmament,NIC,Nicaragua,Central America,developing country,,,,,-3.3,11.5
+Disarmament,NER,Niger,Western Africa,developing country,Least developed country,Landlocked developing country,,,-5.5,8.5
+Disarmament,NGA,Nigeria,Western Africa,developing country,,,,,-5,11.4
+Disarmament,NOR,Norway,Northern Europe,developed country,,,,,-9.4,9.2
+Disarmament,OMN,Oman,Western Asia,developing country,,,,,-3.4,11.6
+Disarmament,PAK,Pakistan,Southern Asia,developing country,,,,,-4.1,11.9
+Disarmament,PLW,Palau,Micronesia,developing country,,,Small island developing State,,-8.4,5.1
+Disarmament,PAN,Panama,Central America,developing country,,,,,-5,11.4
+Disarmament,PNG,Papua New Guinea,Melanesia,developing country,,,Small island developing State,,-7.4,11.7
+Disarmament,PRY,Paraguay,South America,developing country,,Landlocked developing country,,,-6.4,10
+Disarmament,PER,Peru,South America,developing country,,,,,-5,11.4
+Disarmament,PHL,Philippines,South-Eastern Asia,developing country,,,,,-4.8,11
+Disarmament,POL,Poland,Eastern Europe,developed country,,,,,-9.4,9.2
+Disarmament,QAT,Qatar,Western Asia,developing country,,,,,-2.8,10.7
+Disarmament,KOR,Republic of Korea,Eastern Asia,developing country,,,,,-9.1,9.6
+Disarmament,MDA,Republic of Moldova,Eastern Europe,developed country,,Landlocked developing country,,,-9.1,6.3
+Disarmament,ROU,Romania,Eastern Europe,developed country,,,,,-9.4,9.2
+Disarmament,RWA,Rwanda,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,-3.6,7.1
+Disarmament,KNA,Saint Kitts and Nevis,Caribbean,developing country,,,Small island developing State,,-4.6,5.5
+Disarmament,LCA,Saint Lucia,Caribbean,developing country,,,Small island developing State,,-4.5,10.7
+Disarmament,VCT,Saint Vincent and the Grenadines,Caribbean,developing country,,,Small island developing State,,-4.9,8.7
+Disarmament,WSM,Samoa,Polynesia,developing country,,,Small island developing State,,-6.9,9.9
+Disarmament,SMR,San Marino,Southern Europe,developed country,,,,,-9.4,9.2
+Disarmament,STP,Sao Tome and Principe,Middle Africa,developing country,Least developed country,,Small island developing State,,-2.5,7.7
+Disarmament,SAU,Saudi Arabia,Western Asia,developing country,,,,,-2.8,11.3
+Disarmament,SEN,Senegal,Western Africa,developing country,Least developed country,,,,-4.7,11.4
+Disarmament,SYC,Seychelles,Eastern Africa,developing country,,,Small island developing State,,-5.9,4.6
+Disarmament,SLE,Sierra Leone,Western Africa,developing country,Least developed country,,,,-1.5,8
+Disarmament,SGP,Singapore,South-Eastern Asia,developing country,,,Small island developing State,,-5,11.4
+Disarmament,SVK,Slovakia,Eastern Europe,developed country,,,,,-9.4,9.2
+Disarmament,SLB,Solomon Islands,Melanesia,developing country,Least developed country,,Small island developing State,,-6.6,9.1
+Disarmament,SOM,Somalia,Eastern Africa,developing country,Least developed country,,,,-2.1,6.2
+Disarmament,ZAF,South Africa,Southern Africa,developing country,,,,,-6.9,10.2
+Disarmament,ESP,Spain,Southern Europe,developed country,,,,,-9.4,9.2
+Disarmament,LKA,Sri Lanka,Southern Asia,developing country,,,,,-3.7,11.6
+Disarmament,SDN,Sudan,Northern Africa,developing country,Least developed country,,,,-2.6,11.1
+Disarmament,SWZ,Swaziland,Southern Africa,developing country,,Landlocked developing country,,,-6.4,13
+Disarmament,SYR,Syrian Arab Republic,Western Asia,developing country,,,,,-2.6,11.8
+Disarmament,TJK,Tajikistan,Central Asia,developing country,,Landlocked developing country,,,-5.8,8.4
+Disarmament,THA,Thailand,South-Eastern Asia,developing country,,,,,-5,11.4
+Disarmament,MKD,The former Yugoslav Republic of Macedonia,Southern Europe,developed country,,Landlocked developing country,,,-9.4,9.6
+Disarmament,TGO,Togo,Western Africa,developing country,Least developed country,,,,-5,11.4
+Disarmament,TTO,Trinidad and Tobago,Caribbean,developing country,,,Small island developing State,,-4.7,12
+Disarmament,TUN,Tunisia,Northern Africa,developing country,,,,,-4.8,11
+Disarmament,TUR,Turkey,Western Asia,developing country,,,,,-9.4,9.2
+Disarmament,TKM,Turkmenistan,Central Asia,developing country,,Landlocked developing country,,,-3.6,8.9
+Disarmament,UGA,Uganda,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,-1.6,8.4
+Disarmament,UKR,Ukraine,Eastern Europe,developed country,,,,,-8.7,11
+Disarmament,ARE,United Arab Emirates,Western Asia,developing country,,,,,-3.8,10.5
+Disarmament,TZA,United Republic of Tanzania,Eastern Africa,developing country,Least developed country,,,,-5.3,10.9
+Disarmament,URY,Uruguay,South America,developing country,,,,,-6.8,10.1
+Disarmament,UZB,Uzbekistan,Central Asia,developing country,,Landlocked developing country,,,-5.6,7.6
+Disarmament,VUT,Vanuatu,Melanesia,developing country,Least developed country,,Small island developing State,,-5.5,5.7
+Disarmament,VEN,Venezuela (Bolivarian Republic of),South America,developing country,,,,,-2.9,10.8
+Disarmament,VNM,Viet Nam,South-Eastern Asia,developing country,,,,,-1.6,10.1
+Disarmament,YEM,Yemen,Western Asia,developing country,Least developed country,,,,-3.1,10.7
+Disarmament,ZMB,Zambia,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,-4.7,11.5
+Disarmament,ZWE,Zimbabwe,Eastern Africa,developing country,,Landlocked developing country,,,-2.6,8.7
+Disarmament,LBY,Libya,Northern Africa,developing country,,,,,-5.6,3.5
+Disarmament,CPV,Cabo Verde,Western Africa,developing country,,,Small island developing State,,-4.2,3.2
+Disarmament,KAZ,Kazakhstan,Central Asia,developing country,,Landlocked developing country,,,-5.3,3.5
+Disarmament,KIR,Kiribati,Micronesia,developing country,Least developed country,,Small island developing State,,-4.2,3.2
+Disarmament,MNE,Montenegro,Southern Europe,developed country,,,,,-7.3,5.7
+Disarmament,NRU,Nauru,Micronesia,developing country,,,Small island developing State,,-4,2.6
+Disarmament,SRB,Serbia,Southern Europe,developed country,,,,,-7.1,5.7
+Disarmament,SSD,South Sudan,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,-4.5,2.5
+Disarmament,CHE,Switzerland,Western Europe,developed country,,,,,-8.9,7.9
+Disarmament,TLS,Timor-Leste,South-Eastern Asia,developing country,Least developed country,,Small island developing State,,-3.2,7.2
+Disarmament,TON,Tonga,Polynesia,developing country,,,Small island developing State,,-5.8,3.2
+Disarmament,TUV,Tuvalu,Polynesia,developing country,Least developed country,,Small island developing State,,-4.3,4.9
+Palestine,BHR,Bahrain,Western Asia,developing country,,,,,13,-7
+Palestine,BRA,Brazil,South America,developing country,,,,,12.6,-7.7
+Palestine,CHN,China,Eastern Asia,developing country,,,,PM,12.7,-7.3
+Palestine,CRI,Costa Rica,Central America,developing country,,,,,9.8,-11
+Palestine,FRA,France,Western Europe,developed country,,,,PM,6.5,-10.2
+Palestine,GAB,Gabon,Middle Africa,developing country,,,,,10,-2.2
+Palestine,GMB,Gambia,Western Africa,developing country,Least developed country,,,,9.1,0.6
+Palestine,JPN,Japan,Eastern Asia,developed country,,,,,6,-10.7
+Palestine,KEN,Kenya,Eastern Africa,developing country,,,,,10.1,-4.2
+Palestine,PRT,Portugal,Southern Europe,developed country,,,,,6.5,-10.2
+Palestine,RUS,Russian Federation,Eastern Europe,developed country,,,,PM,7.1,-10.5
+Palestine,SVN,Slovenia,Southern Europe,developed country,,,,,6,-10.1
+Palestine,SWE,Sweden,Northern Europe,developed country,,,,,6.5,-10.2
+Palestine,GBR,United Kingdom of Great Britain and Northern Ireland,Northern Europe,developed country,,,,PM,5.9,-9.3
+Palestine,USA,United States of America,Northern America,developed country,,,,PM,-11.4,3.8
+Palestine,AFG,Afghanistan,Southern Asia,developing country,Least developed country,Landlocked developing country,,,12.7,-4.2
+Palestine,ALB,Albania,Southern Europe,developed country,,,,,4.4,-7.7
+Palestine,DZA,Algeria,Northern Africa,developing country,,,,,12.6,-7.7
+Palestine,AND,Andorra,Southern Europe,developed country,,,,,6.3,-10.3
+Palestine,AGO,Angola,Middle Africa,developing country,Least developed country,,,,8.9,-4
+Palestine,ATG,Antigua and Barbuda,Caribbean,developing country,,,Small island developing State,,13.5,-4.1
+Palestine,ARG,Argentina,South America,developing country,,,,,9.6,-8.1
+Palestine,ARM,Armenia,Western Asia,developing country,,Landlocked developing country,,,11.1,-10
+Palestine,AUS,Australia,Australia and New Zealand,developed country,,,,,-5.8,-11.3
+Palestine,AUT,Austria,Western Europe,developed country,,,,,6.7,-10.4
+Palestine,AZE,Azerbaijan,Western Asia,developing country,,Landlocked developing country,,,12.7,-7.3
+Palestine,BHS,Bahamas,Caribbean,developing country,,,Small island developing State,,10.3,-11.4
+Palestine,BGD,Bangladesh,Southern Asia,developing country,Least developed country,,,,12.6,-7.7
+Palestine,BRB,Barbados,Caribbean,developing country,,,Small island developing State,,12.5,-9.8
+Palestine,BLR,Belarus,Eastern Europe,developed country,,,,,11.9,-9.9
+Palestine,BEL,Belgium,Western Europe,developed country,,,,,6.5,-10.2
+Palestine,BLZ,Belize,Central America,developing country,,,Small island developing State,,13.7,-7.3
+Palestine,BEN,Benin,Western Africa,developing country,Least developed country,,,,13.1,-3.1
+Palestine,BTN,Bhutan,Southern Asia,developing country,Least developed country,Landlocked developing country,,,12.5,-3.6
+Palestine,BOL,Bolivia (Plurinational State of),South America,developing country,,Landlocked developing country,,,8.2,0.8
+Palestine,BIH,Bosnia and Herzegovina,Southern Europe,developed country,,,,,4.4,-8.4
+Palestine,BWA,Botswana,Southern Africa,developing country,,Landlocked developing country,,,11.3,-11.5
+Palestine,BRN,Brunei Darussalam,South-Eastern Asia,developing country,,,,,12.7,-7.3
+Palestine,BGR,Bulgaria,Eastern Europe,developed country,,,,,6,-9.6
+Palestine,BFA,Burkina Faso,Western Africa,developing country,Least developed country,Landlocked developing country,,,12.2,-11.4
+Palestine,BDI,Burundi,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,4.8,-4.4
+Palestine,KHM,Cambodia,South-Eastern Asia,developing country,Least developed country,,,,14,-7.8
+Palestine,CMR,Cameroon,Middle Africa,developing country,,,,,-1,-4.4
+Palestine,CAN,Canada,Northern America,developed country,,,,,-7.5,-9.9
+Palestine,CAF,Central African Republic,Middle Africa,developing country,Least developed country,Landlocked developing country,,,5,-0.8
+Palestine,TCD,Chad,Middle Africa,developing country,Least developed country,Landlocked developing country,,,3.4,0
+Palestine,CHL,Chile,South America,developing country,,,,,12.4,-7.9
+Palestine,COL,Colombia,South America,developing country,,,,,8.6,-11.3
+Palestine,COM,Comoros,Eastern Africa,developing country,Least developed country,,Small island developing State,,12.3,-2.3
+Palestine,COG,Congo,Middle Africa,developing country,,,,,11.6,-3.4
+Palestine,CIV,Côte d'Ivoire,Western Africa,developing country,,,,,6.9,-1.9
+Palestine,HRV,Croatia,Southern Europe,developed country,,,,,5.7,-10.2
+Palestine,CUB,Cuba,Caribbean,developing country,,,Small island developing State,,12.7,-7.3
+Palestine,CYP,Cyprus,Western Asia,developing country,,,,,10.4,-9.1
+Palestine,CZE,Czechia,Eastern Europe,developed country,,,,,5.6,-10.7
+Palestine,PRK,Democratic People's Republic of Korea,Eastern Asia,developing country,,,,,12.6,-7.7
+Palestine,COD,Democratic Republic of the Congo,Middle Africa,developing country,Least developed country,,,,1.4,-1.8
+Palestine,DNK,Denmark,Northern Europe,developed country,,,,,6.3,-9.8
+Palestine,DJI,Djibouti,Eastern Africa,developing country,Least developed country,,,,12.7,-7.3
+Palestine,DMA,Dominica,Caribbean,developing country,,,Small island developing State,,7,0.2
+Palestine,DOM,Dominican Republic,Caribbean,developing country,,,Small island developing State,,11.3,-10.9
+Palestine,ECU,Ecuador,South America,developing country,,,,,12.3,-8.2
+Palestine,EGY,Egypt,Northern Africa,developing country,,,,,12.6,-7.7
+Palestine,SLV,El Salvador,Central America,developing country,,,,,9,-12.2
+Palestine,GNQ,Equatorial Guinea,Middle Africa,developing country,Least developed country,,,,-0.4,-5.9
+Palestine,ERI,Eritrea,Eastern Africa,developing country,Least developed country,,,,11.7,-9.3
+Palestine,EST,Estonia,Northern Europe,developed country,,,,,5.9,-9.7
+Palestine,ETH,Ethiopia,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,10.6,-10.9
+Palestine,FJI,Fiji,Melanesia,developing country,,,Small island developing State,,6.2,-5.1
+Palestine,FIN,Finland,Northern Europe,developed country,,,,,6.5,-10.2
+Palestine,GEO,Georgia,Western Asia,developing country,,,,,4.4,-9.3
+Palestine,DEU,Germany,Western Europe,developed country,,,,,5.9,-9.9
+Palestine,GHA,Ghana,Western Africa,developing country,,,,,12.2,-11.8
+Palestine,GRC,Greece,Southern Europe,developed country,,,,,6.5,-10.2
+Palestine,GRD,Grenada,Caribbean,developing country,,,Small island developing State,,7.7,-15.7
+Palestine,GTM,Guatemala,Central America,developing country,,,,,6,-8.2
+Palestine,GIN,Guinea,Western Africa,developing country,Least developed country,,,,13,-7.8
+Palestine,GNB,Guinea-Bissau,Western Africa,developing country,Least developed country,,Small island developing State,,10.5,-1
+Palestine,GUY,Guyana,South America,developing country,,,Small island developing State,,12.9,-7.9
+Palestine,HTI,Haiti,Caribbean,developing country,Least developed country,,Small island developing State,,8.3,-2.8
+Palestine,HND,Honduras,Central America,developing country,,,,,4.3,-5.5
+Palestine,HUN,Hungary,Eastern Europe,developed country,,,,,5.6,-9.9
+Palestine,ISL,Iceland,Northern Europe,developed country,,,,,6.5,-8.7
+Palestine,IND,India,Southern Asia,developing country,,,,,12.7,-7.3
+Palestine,IDN,Indonesia,South-Eastern Asia,developing country,,,,,12.6,-7.7
+Palestine,IRN,Iran (Islamic Republic of),Southern Asia,developing country,,,,,13.2,-6.7
+Palestine,IRQ,Iraq,Western Asia,developing country,,,,,11.5,-1.7
+Palestine,IRL,Ireland,Northern Europe,developed country,,,,,6.5,-10.5
+Palestine,ISR,Israel,Western Asia,developing country,,,,,-11,6.4
+Palestine,ITA,Italy,Southern Europe,developed country,,,,,6.5,-10.2
+Palestine,JAM,Jamaica,Caribbean,developing country,,,Small island developing State,,11.6,-7.8
+Palestine,JOR,Jordan,Western Asia,developing country,,,,,13.3,-7
+Palestine,KWT,Kuwait,Western Asia,developing country,,,,,12.7,-7.3
+Palestine,KGZ,Kyrgyzstan,Central Asia,developing country,,Landlocked developing country,,,10.5,-3.3
+Palestine,LAO,Lao People's Democratic Republic,South-Eastern Asia,developing country,Least developed country,Landlocked developing country,,,12.9,-8.1
+Palestine,LVA,Latvia,Northern Europe,developed country,,,,,5.9,-9.7
+Palestine,LBN,Lebanon,Western Asia,developing country,,,,,12.7,-7.3
+Palestine,LSO,Lesotho,Southern Africa,developing country,Least developed country,Landlocked developing country,,,11.3,-4.3
+Palestine,LBR,Liberia,Western Africa,developing country,Least developed country,,,,7.2,-0.8
+Palestine,LIE,Liechtenstein,Western Europe,developed country,,,,,6.5,-10.2
+Palestine,LTU,Lithuania,Northern Europe,developed country,,,,,5.9,-10.3
+Palestine,LUX,Luxembourg,Western Europe,developed country,,,,,6.5,-10.2
+Palestine,MDG,Madagascar,Eastern Africa,developing country,Least developed country,,,,0.9,-8.9
+Palestine,MWI,Malawi,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,3.8,-3.3
+Palestine,MYS,Malaysia,South-Eastern Asia,developing country,,,,,12.7,-7.3
+Palestine,MDV,Maldives,Southern Asia,developing country,,,Small island developing State,,13.2,-7.8
+Palestine,MLI,Mali,Western Africa,developing country,Least developed country,Landlocked developing country,,,12.7,-7.9
+Palestine,MLT,Malta,Southern Europe,developed country,,,,,10.5,-9.1
+Palestine,MHL,Marshall Islands,Micronesia,developing country,,,Small island developing State,,-11.4,4.1
+Palestine,MRT,Mauritania,Western Africa,developing country,Least developed country,,,,13.9,-8.7
+Palestine,MUS,Mauritius,Eastern Africa,developing country,,,Small island developing State,,13,-5.8
+Palestine,MEX,Mexico,Central America,developing country,,,,,10.7,-9.2
+Palestine,FSM,Micronesia (Federated States of),Micronesia,developing country,,,Small island developing State,,-11.7,2.7
+Palestine,MCO,Monaco,Western Europe,developed country,,,,,6.1,-10.4
+Palestine,MNG,Mongolia,Eastern Asia,developing country,,Landlocked developing country,,,7.3,-11.5
+Palestine,MAR,Morocco,Northern Africa,developing country,,,,,12.7,-7.3
+Palestine,MOZ,Mozambique,Eastern Africa,developing country,Least developed country,,,,12.9,-8.2
+Palestine,MMR,Myanmar,South-Eastern Asia,developing country,Least developed country,,,,13.7,-9.2
+Palestine,NAM,Namibia,Southern Africa,developing country,,,,,13.7,-8.2
+Palestine,NPL,Nepal,Southern Asia,developing country,Least developed country,Landlocked developing country,,,13.3,-5.6
+Palestine,NLD,Netherlands,Western Europe,developed country,,,,,6.1,-9.9
+Palestine,NZL,New Zealand,Australia and New Zealand,developed country,,,,,5.6,-11.3
+Palestine,NIC,Nicaragua,Central America,developing country,,,,,8.8,-5.5
+Palestine,NER,Niger,Western Africa,developing country,Least developed country,Landlocked developing country,,,10,-1.2
+Palestine,NGA,Nigeria,Western Africa,developing country,,,,,13.8,-9.7
+Palestine,NOR,Norway,Northern Europe,developed country,,,,,6.2,-9.6
+Palestine,OMN,Oman,Western Asia,developing country,,,,,12.7,-7.3
+Palestine,PAK,Pakistan,Southern Asia,developing country,,,,,12.7,-7.3
+Palestine,PLW,Palau,Micronesia,developing country,,,Small island developing State,,-11.7,0.7
+Palestine,PAN,Panama,Central America,developing country,,,,,7.3,-14.7
+Palestine,PNG,Papua New Guinea,Melanesia,developing country,,,Small island developing State,,1.4,-7.4
+Palestine,PRY,Paraguay,South America,developing country,,Landlocked developing country,,,10.3,-13.3
+Palestine,PER,Peru,South America,developing country,,,,,6.5,-11.2
+Palestine,PHL,Philippines,South-Eastern Asia,developing country,,,,,10.9,-9.4
+Palestine,POL,Poland,Eastern Europe,developed country,,,,,6.1,-9.9
+Palestine,QAT,Qatar,Western Asia,developing country,,,,,12.7,-7.3
+Palestine,KOR,Republic of Korea,Eastern Asia,developing country,,,,,6.7,-11.6
+Palestine,MDA,Republic of Moldova,Eastern Europe,developed country,,Landlocked developing country,,,3.7,-10.1
+Palestine,ROU,Romania,Eastern Europe,developed country,,,,,5.8,-9.5
+Palestine,RWA,Rwanda,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,0,-4.3
+Palestine,KNA,Saint Kitts and Nevis,Caribbean,developing country,,,Small island developing State,,0.3,-2.2
+Palestine,LCA,Saint Lucia,Caribbean,developing country,,,Small island developing State,,13.4,-6.3
+Palestine,VCT,Saint Vincent and the Grenadines,Caribbean,developing country,,,Small island developing State,,10.4,-4.5
+Palestine,WSM,Samoa,Polynesia,developing country,,,Small island developing State,,3.7,-8.2
+Palestine,SMR,San Marino,Southern Europe,developed country,,,,,6.3,-10.3
+Palestine,STP,Sao Tome and Principe,Middle Africa,developing country,Least developed country,,Small island developing State,,3.3,-0.7
+Palestine,SAU,Saudi Arabia,Western Asia,developing country,,,,,12.7,-7.3
+Palestine,SEN,Senegal,Western Africa,developing country,Least developed country,,,,12.9,-7.9
+Palestine,SYC,Seychelles,Eastern Africa,developing country,,,Small island developing State,,2.7,-1.9
+Palestine,SLE,Sierra Leone,Western Africa,developing country,Least developed country,,,,11.3,-0.2
+Palestine,SGP,Singapore,South-Eastern Asia,developing country,,,Small island developing State,,12.4,-8.1
+Palestine,SVK,Slovakia,Eastern Europe,developed country,,,,,6.3,-10.3
+Palestine,SLB,Solomon Islands,Melanesia,developing country,Least developed country,,Small island developing State,,8,-5.3
+Palestine,SOM,Somalia,Eastern Africa,developing country,Least developed country,,,,12.9,-1.7
+Palestine,ZAF,South Africa,Southern Africa,developing country,,,,,12.2,-6.7
+Palestine,ESP,Spain,Southern Europe,developed country,,,,,6.4,-10.7
+Palestine,LKA,Sri Lanka,Southern Asia,developing country,,,,,13,-7.7
+Palestine,SDN,Sudan,Northern Africa,developing country,Least developed country,,,,13.3,-7.1
+Palestine,SWZ,Swaziland,Southern Africa,developing country,,Landlocked developing country,,,8,-1.6
+Palestine,SYR,Syrian Arab Republic,Western Asia,developing country,,,,,12.7,-7.3
+Palestine,TJK,Tajikistan,Central Asia,developing country,,Landlocked developing country,,,11,-3.3
+Palestine,THA,Thailand,South-Eastern Asia,developing country,,,,,9.2,-9.4
+Palestine,MKD,The former Yugoslav Republic of Macedonia,Southern Europe,developed country,,Landlocked developing country,,,4.9,-10.7
+Palestine,TGO,Togo,Western Africa,developing country,Least developed country,,,,12.7,-10.5
+Palestine,TTO,Trinidad and Tobago,Caribbean,developing country,,,Small island developing State,,12.8,-8.5
+Palestine,TUN,Tunisia,Northern Africa,developing country,,,,,12.7,-7.3
+Palestine,TUR,Turkey,Western Asia,developing country,,,,,12.7,-7.3
+Palestine,TKM,Turkmenistan,Central Asia,developing country,,Landlocked developing country,,,10.6,-1.8
+Palestine,UGA,Uganda,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,9.1,-0.7
+Palestine,UKR,Ukraine,Eastern Europe,developed country,,,,,7.1,-10.9
+Palestine,ARE,United Arab Emirates,Western Asia,developing country,,,,,12.6,-7
+Palestine,TZA,United Republic of Tanzania,Eastern Africa,developing country,Least developed country,,,,13.5,-10.6
+Palestine,URY,Uruguay,South America,developing country,,,,,9.3,-10.5
+Palestine,UZB,Uzbekistan,Central Asia,developing country,,Landlocked developing country,,,11.2,-1.9
+Palestine,VUT,Vanuatu,Melanesia,developing country,Least developed country,,Small island developing State,,-0.2,-3
+Palestine,VEN,Venezuela (Bolivarian Republic of),South America,developing country,,,,,12.6,-8.8
+Palestine,VNM,Viet Nam,South-Eastern Asia,developing country,,,,,13,-7.4
+Palestine,YEM,Yemen,Western Asia,developing country,Least developed country,,,,13,-7.2
+Palestine,ZMB,Zambia,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,12.7,-9.1
+Palestine,ZWE,Zimbabwe,Eastern Africa,developing country,,Landlocked developing country,,,12.6,-5
+Palestine,LBY,Libya,Northern Africa,developing country,,,,,4.4,0.8
+Palestine,CPV,Cabo Verde,Western Africa,developing country,,,Small island developing State,,2,0.2
+Palestine,KAZ,Kazakhstan,Central Asia,developing country,,Landlocked developing country,,,4.5,0.7
+Palestine,KIR,Kiribati,Micronesia,developing country,Least developed country,,Small island developing State,,0.8,-0.8
+Palestine,MNE,Montenegro,Southern Europe,developed country,,,,,2.5,-6.1
+Palestine,NRU,Nauru,Micronesia,developing country,,,Small island developing State,,-3.4,-1
+Palestine,SRB,Serbia,Southern Europe,developed country,,,,,2.7,-5.9
+Palestine,SSD,South Sudan,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,-0.3,-1.2
+Palestine,CHE,Switzerland,Western Europe,developed country,,,,,5.2,-8.3
+Palestine,TLS,Timor-Leste,South-Eastern Asia,developing country,Least developed country,,Small island developing State,,5,-6.1
+Palestine,TON,Tonga,Polynesia,developing country,,,Small island developing State,,0.6,-1.6
+Palestine,TUV,Tuvalu,Polynesia,developing country,Least developed country,,Small island developing State,,5.5,1.2
+Human Rights,BHR,Bahrain,Western Asia,developing country,,,,,4.7,0.5
+Human Rights,BRA,Brazil,South America,developing country,,,,,1.5,7
+Human Rights,CHN,China,Eastern Asia,developing country,,,,PM,1.6,-4.2
+Human Rights,CRI,Costa Rica,Central America,developing country,,,,,5,8.7
+Human Rights,FRA,France,Western Europe,developed country,,,,PM,-11.9,12.9
+Human Rights,GAB,Gabon,Middle Africa,developing country,,,,,2.7,2.7
+Human Rights,GMB,Gambia,Western Africa,developing country,Least developed country,,,,-0.4,-1
+Human Rights,JPN,Japan,Eastern Asia,developed country,,,,,-11.1,14.3
+Human Rights,KEN,Kenya,Eastern Africa,developing country,,,,,2.1,1.9
+Human Rights,PRT,Portugal,Southern Europe,developed country,,,,,-11.6,13.4
+Human Rights,RUS,Russian Federation,Eastern Europe,developed country,,,,PM,-0.2,-4.2
+Human Rights,SVN,Slovenia,Southern Europe,developed country,,,,,-11.7,13.1
+Human Rights,SWE,Sweden,Northern Europe,developed country,,,,,-12.4,12.5
+Human Rights,GBR,United Kingdom of Great Britain and Northern Ireland,Northern Europe,developed country,,,,PM,-12.4,12.5
+Human Rights,USA,United States of America,Northern America,developed country,,,,PM,-14.4,10.6
+Human Rights,AFG,Afghanistan,Southern Asia,developing country,Least developed country,Landlocked developing country,,,-2.9,-0.9
+Human Rights,ALB,Albania,Southern Europe,developed country,,,,,-12,12.5
+Human Rights,DZA,Algeria,Northern Africa,developing country,,,,,1.5,-3.3
+Human Rights,AND,Andorra,Southern Europe,developed country,,,,,-11.3,13.4
+Human Rights,AGO,Angola,Middle Africa,developing country,Least developed country,,,,1.4,1.9
+Human Rights,ATG,Antigua and Barbuda,Caribbean,developing country,,,Small island developing State,,3,2.7
+Human Rights,ARG,Argentina,South America,developing country,,,,,3.2,10.4
+Human Rights,ARM,Armenia,Western Asia,developing country,,Landlocked developing country,,,5.4,11.3
+Human Rights,AUS,Australia,Australia and New Zealand,developed country,,,,,-10.6,15.3
+Human Rights,AUT,Austria,Western Europe,developed country,,,,,-11.7,13.1
+Human Rights,AZE,Azerbaijan,Western Asia,developing country,,Landlocked developing country,,,2.2,-1.7
+Human Rights,BHS,Bahamas,Caribbean,developing country,,,Small island developing State,,5.2,6.7
+Human Rights,BGD,Bangladesh,Southern Asia,developing country,Least developed country,,,,3.6,-2.2
+Human Rights,BRB,Barbados,Caribbean,developing country,,,Small island developing State,,4.4,5
+Human Rights,BLR,Belarus,Eastern Europe,developed country,,,,,-1.6,-4.7
+Human Rights,BEL,Belgium,Western Europe,developed country,,,,,-12.6,12.2
+Human Rights,BLZ,Belize,Central America,developing country,,,Small island developing State,,5.6,6.5
+Human Rights,BEN,Benin,Western Africa,developing country,Least developed country,,,,3.7,1.9
+Human Rights,BTN,Bhutan,Southern Asia,developing country,Least developed country,Landlocked developing country,,,4.4,3.7
+Human Rights,BOL,Bolivia (Plurinational State of),South America,developing country,,Landlocked developing country,,,-0.3,8.8
+Human Rights,BIH,Bosnia and Herzegovina,Southern Europe,developed country,,,,,-11.4,13.5
+Human Rights,BWA,Botswana,Southern Africa,developing country,,Landlocked developing country,,,5.5,5.3
+Human Rights,BRN,Brunei Darussalam,South-Eastern Asia,developing country,,,,,2.7,-1.9
+Human Rights,BGR,Bulgaria,Eastern Europe,developed country,,,,,-12,12.8
+Human Rights,BFA,Burkina Faso,Western Africa,developing country,Least developed country,Landlocked developing country,,,3,1.8
+Human Rights,BDI,Burundi,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,6,4.5
+Human Rights,KHM,Cambodia,South-Eastern Asia,developing country,Least developed country,,,,2.1,-0.4
+Human Rights,CMR,Cameroon,Middle Africa,developing country,,,,,2,1.7
+Human Rights,CAN,Canada,Northern America,developed country,,,,,-13.9,11.1
+Human Rights,CAF,Central African Republic,Middle Africa,developing country,Least developed country,Landlocked developing country,,,-0.8,4
+Human Rights,TCD,Chad,Middle Africa,developing country,Least developed country,Landlocked developing country,,,-3.4,1
+Human Rights,CHL,Chile,South America,developing country,,,,,1.5,11.8
+Human Rights,COL,Colombia,South America,developing country,,,,,3.3,5.8
+Human Rights,COM,Comoros,Eastern Africa,developing country,Least developed country,,Small island developing State,,4.1,-0.1
+Human Rights,COG,Congo,Middle Africa,developing country,,,,,-0.1,1.1
+Human Rights,CIV,Côte d'Ivoire,Western Africa,developing country,,,,,0.9,2.5
+Human Rights,HRV,Croatia,Southern Europe,developed country,,,,,-10.5,14
+Human Rights,CUB,Cuba,Caribbean,developing country,,,Small island developing State,,1.5,-4.3
+Human Rights,CYP,Cyprus,Western Asia,developing country,,,,,-11.1,13.6
+Human Rights,CZE,Czechia,Eastern Europe,developed country,,,,,-12.4,12.5
+Human Rights,PRK,Democratic People's Republic of Korea,Eastern Asia,developing country,,,,,0,-4.7
+Human Rights,COD,Democratic Republic of the Congo,Middle Africa,developing country,Least developed country,,,,-0.2,-0.4
+Human Rights,DNK,Denmark,Northern Europe,developed country,,,,,-12.4,12.5
+Human Rights,DJI,Djibouti,Eastern Africa,developing country,Least developed country,,,,3.6,1.1
+Human Rights,DMA,Dominica,Caribbean,developing country,,,Small island developing State,,2.6,4.2
+Human Rights,DOM,Dominican Republic,Caribbean,developing country,,,Small island developing State,,5.6,7.1
+Human Rights,ECU,Ecuador,South America,developing country,,,,,7,3.8
+Human Rights,EGY,Egypt,Northern Africa,developing country,,,,,2,-4
+Human Rights,SLV,El Salvador,Central America,developing country,,,,,5.5,8.2
+Human Rights,GNQ,Equatorial Guinea,Middle Africa,developing country,Least developed country,,,,-4.2,1
+Human Rights,ERI,Eritrea,Eastern Africa,developing country,Least developed country,,,,5.1,1.9
+Human Rights,EST,Estonia,Northern Europe,developed country,,,,,-12.2,12.8
+Human Rights,ETH,Ethiopia,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,2.8,1.4
+Human Rights,FJI,Fiji,Melanesia,developing country,,,Small island developing State,,2,8.4
+Human Rights,FIN,Finland,Northern Europe,developed country,,,,,-12.4,12.5
+Human Rights,GEO,Georgia,Western Asia,developing country,,,,,-7.7,15.8
+Human Rights,DEU,Germany,Western Europe,developed country,,,,,-12.3,12.3
+Human Rights,GHA,Ghana,Western Africa,developing country,,,,,3.3,4.2
+Human Rights,GRC,Greece,Southern Europe,developed country,,,,,-11.4,13.1
+Human Rights,GRD,Grenada,Caribbean,developing country,,,Small island developing State,,4.1,4.7
+Human Rights,GTM,Guatemala,Central America,developing country,,,,,3.9,8.5
+Human Rights,GIN,Guinea,Western Africa,developing country,Least developed country,,,,0.8,-1.3
+Human Rights,GNB,Guinea-Bissau,Western Africa,developing country,Least developed country,,Small island developing State,,0.8,4.8
+Human Rights,GUY,Guyana,South America,developing country,,,Small island developing State,,3.7,2.9
+Human Rights,HTI,Haiti,Caribbean,developing country,Least developed country,,Small island developing State,,5,5.2
+Human Rights,HND,Honduras,Central America,developing country,,,,,5.1,8.5
+Human Rights,HUN,Hungary,Eastern Europe,developed country,,,,,-12.4,12.5
+Human Rights,ISL,Iceland,Northern Europe,developed country,,,,,-12.4,12.5
+Human Rights,IND,India,Southern Asia,developing country,,,,,1.6,-2.6
+Human Rights,IDN,Indonesia,South-Eastern Asia,developing country,,,,,2.7,-2.7
+Human Rights,IRN,Iran (Islamic Republic of),Southern Asia,developing country,,,,,0.6,-4.5
+Human Rights,IRQ,Iraq,Western Asia,developing country,,,,,-0.3,4.5
+Human Rights,IRL,Ireland,Northern Europe,developed country,,,,,-11.7,13.1
+Human Rights,ISR,Israel,Western Asia,developing country,,,,,-9.9,16.9
+Human Rights,ITA,Italy,Southern Europe,developed country,,,,,-12.2,12.8
+Human Rights,JAM,Jamaica,Caribbean,developing country,,,Small island developing State,,3.6,3.6
+Human Rights,JOR,Jordan,Western Asia,developing country,,,,,5.3,2.7
+Human Rights,KWT,Kuwait,Western Asia,developing country,,,,,3.5,-0.9
+Human Rights,KGZ,Kyrgyzstan,Central Asia,developing country,,Landlocked developing country,,,-0.8,-0.8
+Human Rights,LAO,Lao People's Democratic Republic,South-Eastern Asia,developing country,Least developed country,Landlocked developing country,,,1.2,-1.1
+Human Rights,LVA,Latvia,Northern Europe,developed country,,,,,-11.6,12.9
+Human Rights,LBN,Lebanon,Western Asia,developing country,,,,,6.1,0.6
+Human Rights,LSO,Lesotho,Southern Africa,developing country,Least developed country,Landlocked developing country,,,0.9,2
+Human Rights,LBR,Liberia,Western Africa,developing country,Least developed country,,,,0.4,6.8
+Human Rights,LIE,Liechtenstein,Western Europe,developed country,,,,,-10.9,13.4
+Human Rights,LTU,Lithuania,Northern Europe,developed country,,,,,-11.9,12.9
+Human Rights,LUX,Luxembourg,Western Europe,developed country,,,,,-12.4,12.5
+Human Rights,MDG,Madagascar,Eastern Africa,developing country,Least developed country,,,,2.5,4
+Human Rights,MWI,Malawi,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,3.7,5.5
+Human Rights,MYS,Malaysia,South-Eastern Asia,developing country,,,,,2.2,-2.8
+Human Rights,MDV,Maldives,Southern Asia,developing country,,,Small island developing State,,6.4,4.5
+Human Rights,MLI,Mali,Western Africa,developing country,Least developed country,Landlocked developing country,,,2.3,1.2
+Human Rights,MLT,Malta,Southern Europe,developed country,,,,,-11.7,13.1
+Human Rights,MHL,Marshall Islands,Micronesia,developing country,,,Small island developing State,,-7.7,17.2
+Human Rights,MRT,Mauritania,Western Africa,developing country,Least developed country,,,,5,0.6
+Human Rights,MUS,Mauritius,Eastern Africa,developing country,,,Small island developing State,,4.3,4.4
+Human Rights,MEX,Mexico,Central America,developing country,,,,,3.9,9.4
+Human Rights,FSM,Micronesia (Federated States of),Micronesia,developing country,,,Small island developing State,,-9.1,15.6
+Human Rights,MCO,Monaco,Western Europe,developed country,,,,,-11.9,12.9
+Human Rights,MNG,Mongolia,Eastern Asia,developing country,,Landlocked developing country,,,3.5,3.8
+Human Rights,MAR,Morocco,Northern Africa,developing country,,,,,5.9,1.7
+Human Rights,MOZ,Mozambique,Eastern Africa,developing country,Least developed country,,,,1.9,1.3
+Human Rights,MMR,Myanmar,South-Eastern Asia,developing country,Least developed country,,,,0.9,-3.9
+Human Rights,NAM,Namibia,Southern Africa,developing country,,,,,1.6,1.4
+Human Rights,NPL,Nepal,Southern Asia,developing country,Least developed country,Landlocked developing country,,,2.6,1.4
+Human Rights,NLD,Netherlands,Western Europe,developed country,,,,,-12.6,12.2
+Human Rights,NZL,New Zealand,Australia and New Zealand,developed country,,,,,-10.3,14.3
+Human Rights,NIC,Nicaragua,Central America,developing country,,,,,-3.8,-2
+Human Rights,NER,Niger,Western Africa,developing country,Least developed country,Landlocked developing country,,,0.1,0
+Human Rights,NGA,Nigeria,Western Africa,developing country,,,,,1.7,0.8
+Human Rights,NOR,Norway,Northern Europe,developed country,,,,,-13,11.8
+Human Rights,OMN,Oman,Western Asia,developing country,,,,,2.1,-3.6
+Human Rights,PAK,Pakistan,Southern Asia,developing country,,,,,2.9,-2.5
+Human Rights,PLW,Palau,Micronesia,developing country,,,Small island developing State,,-8.8,16.3
+Human Rights,PAN,Panama,Central America,developing country,,,,,5.2,9.1
+Human Rights,PNG,Papua New Guinea,Melanesia,developing country,,,Small island developing State,,3.2,7.6
+Human Rights,PRY,Paraguay,South America,developing country,,Landlocked developing country,,,4.6,8.4
+Human Rights,PER,Peru,South America,developing country,,,,,4.4,9.6
+Human Rights,PHL,Philippines,South-Eastern Asia,developing country,,,,,2.6,2.9
+Human Rights,POL,Poland,Eastern Europe,developed country,,,,,-12.4,12.5
+Human Rights,QAT,Qatar,Western Asia,developing country,,,,,2.9,-1.5
+Human Rights,KOR,Republic of Korea,Eastern Asia,developing country,,,,,-9.2,14.6
+Human Rights,MDA,Republic of Moldova,Eastern Europe,developed country,,Landlocked developing country,,,-8,14.8
+Human Rights,ROU,Romania,Eastern Europe,developed country,,,,,-11.6,13.1
+Human Rights,RWA,Rwanda,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,-1.5,0.4
+Human Rights,KNA,Saint Kitts and Nevis,Caribbean,developing country,,,Small island developing State,,-2.3,2.6
+Human Rights,LCA,Saint Lucia,Caribbean,developing country,,,Small island developing State,,4.2,2.9
+Human Rights,VCT,Saint Vincent and the Grenadines,Caribbean,developing country,,,Small island developing State,,1.2,3.8
+Human Rights,WSM,Samoa,Polynesia,developing country,,,Small island developing State,,3.2,10.9
+Human Rights,SMR,San Marino,Southern Europe,developed country,,,,,-10.8,13.7
+Human Rights,STP,Sao Tome and Principe,Middle Africa,developing country,Least developed country,,Small island developing State,,-3.2,2.5
+Human Rights,SAU,Saudi Arabia,Western Asia,developing country,,,,,5.3,1.1
+Human Rights,SEN,Senegal,Western Africa,developing country,Least developed country,,,,3.3,0.3
+Human Rights,SYC,Seychelles,Eastern Africa,developing country,,,Small island developing State,,-4.3,3.6
+Human Rights,SLE,Sierra Leone,Western Africa,developing country,Least developed country,,,,1.3,2.5
+Human Rights,SGP,Singapore,South-Eastern Asia,developing country,,,Small island developing State,,-0.9,2.6
+Human Rights,SVK,Slovakia,Eastern Europe,developed country,,,,,-11.4,13.2
+Human Rights,SLB,Solomon Islands,Melanesia,developing country,Least developed country,,Small island developing State,,4.6,7.1
+Human Rights,SOM,Somalia,Eastern Africa,developing country,Least developed country,,,,-1.3,-1.4
+Human Rights,ZAF,South Africa,Southern Africa,developing country,,,,,1.5,0
+Human Rights,ESP,Spain,Southern Europe,developed country,,,,,-10.8,13.9
+Human Rights,LKA,Sri Lanka,Southern Asia,developing country,,,,,3.7,-1.4
+Human Rights,SDN,Sudan,Northern Africa,developing country,Least developed country,,,,1,-4.7
+Human Rights,SWZ,Swaziland,Southern Africa,developing country,,Landlocked developing country,,,-1.8,1.6
+Human Rights,SYR,Syrian Arab Republic,Western Asia,developing country,,,,,-1.6,-5.5
+Human Rights,TJK,Tajikistan,Central Asia,developing country,,Landlocked developing country,,,-1,-2.1
+Human Rights,THA,Thailand,South-Eastern Asia,developing country,,,,,2,2.9
+Human Rights,MKD,The former Yugoslav Republic of Macedonia,Southern Europe,developed country,,Landlocked developing country,,,-10.1,13.9
+Human Rights,TGO,Togo,Western Africa,developing country,Least developed country,,,,4.5,1.7
+Human Rights,TTO,Trinidad and Tobago,Caribbean,developing country,,,Small island developing State,,2.8,3.7
+Human Rights,TUN,Tunisia,Northern Africa,developing country,,,,,3.9,0.1
+Human Rights,TUR,Turkey,Western Asia,developing country,,,,,-6.6,15.8
+Human Rights,TKM,Turkmenistan,Central Asia,developing country,,Landlocked developing country,,,-2.2,-2
+Human Rights,UGA,Uganda,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,0.9,0.8
+Human Rights,UKR,Ukraine,Eastern Europe,developed country,,,,,-6.5,16.7
+Human Rights,ARE,United Arab Emirates,Western Asia,developing country,,,,,3.9,1.1
+Human Rights,TZA,United Republic of Tanzania,Eastern Africa,developing country,Least developed country,,,,4.3,3.4
+Human Rights,URY,Uruguay,South America,developing country,,,,,4.1,7.6
+Human Rights,UZB,Uzbekistan,Central Asia,developing country,,Landlocked developing country,,,-2.6,-3.3
+Human Rights,VUT,Vanuatu,Melanesia,developing country,Least developed country,,Small island developing State,,1.4,7.8
+Human Rights,VEN,Venezuela (Bolivarian Republic of),South America,developing country,,,,,-0.6,-4.5
+Human Rights,VNM,Viet Nam,South-Eastern Asia,developing country,,,,,1.7,-4.1
+Human Rights,YEM,Yemen,Western Asia,developing country,Least developed country,,,,2.7,-0.2
+Human Rights,ZMB,Zambia,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,2.4,1.9
+Human Rights,ZWE,Zimbabwe,Eastern Africa,developing country,,Landlocked developing country,,,-0.9,-4.2
+Human Rights,LBY,Libya,Northern Africa,developing country,,,,,-4.8,3.2
+Human Rights,CPV,Cabo Verde,Western Africa,developing country,,,Small island developing State,,-5.5,4.1
+Human Rights,KAZ,Kazakhstan,Central Asia,developing country,,Landlocked developing country,,,-5.6,1.6
+Human Rights,KIR,Kiribati,Micronesia,developing country,Least developed country,,Small island developing State,,-5.1,6.5
+Human Rights,MNE,Montenegro,Southern Europe,developed country,,,,,-6.2,14.5
+Human Rights,NRU,Nauru,Micronesia,developing country,,,Small island developing State,,-5.8,6
+Human Rights,SRB,Serbia,Southern Europe,developed country,,,,,-5,14.7
+Human Rights,SSD,South Sudan,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,-5.2,4.7
+Human Rights,CHE,Switzerland,Western Europe,developed country,,,,,-8.6,13.9
+Human Rights,TLS,Timor-Leste,South-Eastern Asia,developing country,Least developed country,,Small island developing State,,3.3,8.9
+Human Rights,TON,Tonga,Polynesia,developing country,,,Small island developing State,,-4.5,5.2
+Human Rights,TUV,Tuvalu,Polynesia,developing country,Least developed country,,Small island developing State,,2.8,8
+Non-Proliferation,BHR,Bahrain,Western Asia,developing country,,,,,3.8,3.9
+Non-Proliferation,BRA,Brazil,South America,developing country,,,,,6.3,4.9
+Non-Proliferation,CHN,China,Eastern Asia,developing country,,,,PM,11.5,2.1
+Non-Proliferation,CRI,Costa Rica,Central America,developing country,,,,,5.2,2.4
+Non-Proliferation,FRA,France,Western Europe,developed country,,,,PM,22.3,-10.9
+Non-Proliferation,GAB,Gabon,Middle Africa,developing country,,,,,-0.7,-1.2
+Non-Proliferation,GMB,Gambia,Western Africa,developing country,Least developed country,,,,-1.1,-2.6
+Non-Proliferation,JPN,Japan,Eastern Asia,developed country,,,,,10.3,-5.2
+Non-Proliferation,KEN,Kenya,Eastern Africa,developing country,,,,,3.2,2.6
+Non-Proliferation,PRT,Portugal,Southern Europe,developed country,,,,,13.5,-13.1
+Non-Proliferation,RUS,Russian Federation,Eastern Europe,developed country,,,,PM,3.7,-14.2
+Non-Proliferation,SVN,Slovenia,Southern Europe,developed country,,,,,13.9,-12.9
+Non-Proliferation,SWE,Sweden,Northern Europe,developed country,,,,,15.4,-5.6
+Non-Proliferation,GBR,United Kingdom of Great Britain and Northern Ireland,Northern Europe,developed country,,,,PM,22,-12.3
+Non-Proliferation,USA,United States of America,Northern America,developed country,,,,PM,26.7,-10.3
+Non-Proliferation,AFG,Afghanistan,Southern Asia,developing country,Least developed country,Landlocked developing country,,,5.7,1.6
+Non-Proliferation,ALB,Albania,Southern Europe,developed country,,,,,12.1,-14.2
+Non-Proliferation,DZA,Algeria,Northern Africa,developing country,,,,,4.3,4.2
+Non-Proliferation,AND,Andorra,Southern Europe,developed country,,,,,12.8,-11.6
+Non-Proliferation,AGO,Angola,Middle Africa,developing country,Least developed country,,,,4.4,-1.9
+Non-Proliferation,ATG,Antigua and Barbuda,Caribbean,developing country,,,Small island developing State,,2.3,0.1
+Non-Proliferation,ARG,Argentina,South America,developing country,,,,,8.6,-1.1
+Non-Proliferation,ARM,Armenia,Western Asia,developing country,,Landlocked developing country,,,9.3,-5.4
+Non-Proliferation,AUS,Australia,Australia and New Zealand,developed country,,,,,10.4,-13.9
+Non-Proliferation,AUT,Austria,Western Europe,developed country,,,,,15.1,-6.5
+Non-Proliferation,AZE,Azerbaijan,Western Asia,developing country,,Landlocked developing country,,,7.4,-2.1
+Non-Proliferation,BHS,Bahamas,Caribbean,developing country,,,Small island developing State,,4.8,3.1
+Non-Proliferation,BGD,Bangladesh,Southern Asia,developing country,Least developed country,,,,4.2,2.3
+Non-Proliferation,BRB,Barbados,Caribbean,developing country,,,Small island developing State,,5.4,3.5
+Non-Proliferation,BLR,Belarus,Eastern Europe,developed country,,,,,8.5,-3.8
+Non-Proliferation,BEL,Belgium,Western Europe,developed country,,,,,15.2,-12.4
+Non-Proliferation,BLZ,Belize,Central America,developing country,,,Small island developing State,,3.5,1.3
+Non-Proliferation,BEN,Benin,Western Africa,developing country,Least developed country,,,,1.1,0.2
+Non-Proliferation,BTN,Bhutan,Southern Asia,developing country,Least developed country,Landlocked developing country,,,0.4,2
+Non-Proliferation,BOL,Bolivia (Plurinational State of),South America,developing country,,Landlocked developing country,,,14.4,0.8
+Non-Proliferation,BIH,Bosnia and Herzegovina,Southern Europe,developed country,,,,,14.8,-9.3
+Non-Proliferation,BWA,Botswana,Southern Africa,developing country,,Landlocked developing country,,,7.3,3.9
+Non-Proliferation,BRN,Brunei Darussalam,South-Eastern Asia,developing country,,,,,4.8,3.4
+Non-Proliferation,BGR,Bulgaria,Eastern Europe,developed country,,,,,12.3,-13.6
+Non-Proliferation,BFA,Burkina Faso,Western Africa,developing country,Least developed country,Landlocked developing country,,,4.3,2.4
+Non-Proliferation,BDI,Burundi,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,11.7,3.6
+Non-Proliferation,KHM,Cambodia,South-Eastern Asia,developing country,Least developed country,,,,4.8,3.8
+Non-Proliferation,CMR,Cameroon,Middle Africa,developing country,,,,,1.2,1.7
+Non-Proliferation,CAN,Canada,Northern America,developed country,,,,,9.7,-14.7
+Non-Proliferation,CAF,Central African Republic,Middle Africa,developing country,Least developed country,Landlocked developing country,,,-0.1,-3.7
+Non-Proliferation,TCD,Chad,Middle Africa,developing country,Least developed country,Landlocked developing country,,,2.1,-7.6
+Non-Proliferation,CHL,Chile,South America,developing country,,,,,5.4,3.1
+Non-Proliferation,COL,Colombia,South America,developing country,,,,,2.9,1.7
+Non-Proliferation,COM,Comoros,Eastern Africa,developing country,Least developed country,,Small island developing State,,2.8,-1.6
+Non-Proliferation,COG,Congo,Middle Africa,developing country,,,,,4.1,1.2
+Non-Proliferation,CIV,Côte d'Ivoire,Western Africa,developing country,,,,,2.3,1.8
+Non-Proliferation,HRV,Croatia,Southern Europe,developed country,,,,,14.5,-10.9
+Non-Proliferation,CUB,Cuba,Caribbean,developing country,,,Small island developing State,,1.3,3.1
+Non-Proliferation,CYP,Cyprus,Western Asia,developing country,,,,,14.9,-8.4
+Non-Proliferation,CZE,Czechia,Eastern Europe,developed country,,,,,15.2,-13.1
+Non-Proliferation,PRK,Democratic People's Republic of Korea,Eastern Asia,developing country,,,,,13.5,8.6
+Non-Proliferation,COD,Democratic Republic of the Congo,Middle Africa,developing country,Least developed country,,,,-0.7,-5.8
+Non-Proliferation,DNK,Denmark,Northern Europe,developed country,,,,,14.7,-12.7
+Non-Proliferation,DJI,Djibouti,Eastern Africa,developing country,Least developed country,,,,4.1,3.8
+Non-Proliferation,DMA,Dominica,Caribbean,developing country,,,Small island developing State,,13,1.6
+Non-Proliferation,DOM,Dominican Republic,Caribbean,developing country,,,Small island developing State,,4.9,3
+Non-Proliferation,ECU,Ecuador,South America,developing country,,,,,2.6,3.1
+Non-Proliferation,EGY,Egypt,Northern Africa,developing country,,,,,2,3.8
+Non-Proliferation,SLV,El Salvador,Central America,developing country,,,,,4.3,1.9
+Non-Proliferation,GNQ,Equatorial Guinea,Middle Africa,developing country,Least developed country,,,,-0.4,-7.4
+Non-Proliferation,ERI,Eritrea,Eastern Africa,developing country,Least developed country,,,,5.7,3.9
+Non-Proliferation,EST,Estonia,Northern Europe,developed country,,,,,13.1,-13.5
+Non-Proliferation,ETH,Ethiopia,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,0.4,0.9
+Non-Proliferation,FJI,Fiji,Melanesia,developing country,,,Small island developing State,,6.5,2.8
+Non-Proliferation,FIN,Finland,Northern Europe,developed country,,,,,14.3,-10.1
+Non-Proliferation,GEO,Georgia,Western Asia,developing country,,,,,10.6,-10
+Non-Proliferation,DEU,Germany,Western Europe,developed country,,,,,15.4,-12.1
+Non-Proliferation,GHA,Ghana,Western Africa,developing country,,,,,4.3,2.9
+Non-Proliferation,GRC,Greece,Southern Europe,developed country,,,,,12.7,-13.3
+Non-Proliferation,GRD,Grenada,Caribbean,developing country,,,Small island developing State,,5.4,3.9
+Non-Proliferation,GTM,Guatemala,Central America,developing country,,,,,4.8,2.1
+Non-Proliferation,GIN,Guinea,Western Africa,developing country,Least developed country,,,,6.8,4.6
+Non-Proliferation,GNB,Guinea-Bissau,Western Africa,developing country,Least developed country,,Small island developing State,,1,-1.1
+Non-Proliferation,GUY,Guyana,South America,developing country,,,Small island developing State,,4.5,3.3
+Non-Proliferation,HTI,Haiti,Caribbean,developing country,Least developed country,,Small island developing State,,10,3.1
+Non-Proliferation,HND,Honduras,Central America,developing country,,,,,5,2.3
+Non-Proliferation,HUN,Hungary,Eastern Europe,developed country,,,,,14.6,-13.6
+Non-Proliferation,ISL,Iceland,Northern Europe,developed country,,,,,14.8,-11.4
+Non-Proliferation,IND,India,Southern Asia,developing country,,,,,15.9,5.1
+Non-Proliferation,IDN,Indonesia,South-Eastern Asia,developing country,,,,,4.9,4
+Non-Proliferation,IRN,Iran (Islamic Republic of),Southern Asia,developing country,,,,,1.3,3.6
+Non-Proliferation,IRQ,Iraq,Western Asia,developing country,,,,,1.4,-0.7
+Non-Proliferation,IRL,Ireland,Northern Europe,developed country,,,,,15.5,-5.2
+Non-Proliferation,ISR,Israel,Western Asia,developing country,,,,,6.4,-20.7
+Non-Proliferation,ITA,Italy,Southern Europe,developed country,,,,,13.9,-13.7
+Non-Proliferation,JAM,Jamaica,Caribbean,developing country,,,Small island developing State,,5.2,3.1
+Non-Proliferation,JOR,Jordan,Western Asia,developing country,,,,,4.1,3.2
+Non-Proliferation,KWT,Kuwait,Western Asia,developing country,,,,,3.7,3.6
+Non-Proliferation,KGZ,Kyrgyzstan,Central Asia,developing country,,Landlocked developing country,,,6.4,-3
+Non-Proliferation,LAO,Lao People's Democratic Republic,South-Eastern Asia,developing country,Least developed country,Landlocked developing country,,,3.4,3
+Non-Proliferation,LVA,Latvia,Northern Europe,developed country,,,,,16.3,-12.6
+Non-Proliferation,LBN,Lebanon,Western Asia,developing country,,,,,2.8,3.5
+Non-Proliferation,LSO,Lesotho,Southern Africa,developing country,Least developed country,Landlocked developing country,,,5.3,4.1
+Non-Proliferation,LBR,Liberia,Western Africa,developing country,Least developed country,,,,1.9,-0.9
+Non-Proliferation,LIE,Liechtenstein,Western Europe,developed country,,,,,15,-8.7
+Non-Proliferation,LTU,Lithuania,Northern Europe,developed country,,,,,14.2,-13.9
+Non-Proliferation,LUX,Luxembourg,Western Europe,developed country,,,,,15,-12.5
+Non-Proliferation,MDG,Madagascar,Eastern Africa,developing country,Least developed country,,,,8,3.8
+Non-Proliferation,MWI,Malawi,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,3.9,0.6
+Non-Proliferation,MYS,Malaysia,South-Eastern Asia,developing country,,,,,4.6,3.2
+Non-Proliferation,MDV,Maldives,Southern Asia,developing country,,,Small island developing State,,4.4,3
+Non-Proliferation,MLI,Mali,Western Africa,developing country,Least developed country,Landlocked developing country,,,4.1,2.9
+Non-Proliferation,MLT,Malta,Southern Europe,developed country,,,,,15.3,-5.7
+Non-Proliferation,MHL,Marshall Islands,Micronesia,developing country,,,Small island developing State,,-0.5,-10.9
+Non-Proliferation,MRT,Mauritania,Western Africa,developing country,Least developed country,,,,6.6,4.4
+Non-Proliferation,MUS,Mauritius,Eastern Africa,developing country,,,Small island developing State,,-0.1,0.1
+Non-Proliferation,MEX,Mexico,Central America,developing country,,,,,3.5,2.4
+Non-Proliferation,FSM,Micronesia (Federated States of),Micronesia,developing country,,,Small island developing State,,6.9,-18
+Non-Proliferation,MCO,Monaco,Western Europe,developed country,,,,,17.3,-10.6
+Non-Proliferation,MNG,Mongolia,Eastern Asia,developing country,,Landlocked developing country,,,4.3,3.2
+Non-Proliferation,MAR,Morocco,Northern Africa,developing country,,,,,5.3,3.3
+Non-Proliferation,MOZ,Mozambique,Eastern Africa,developing country,Least developed country,,,,6.7,3.2
+Non-Proliferation,MMR,Myanmar,South-Eastern Asia,developing country,Least developed country,,,,1.7,3.2
+Non-Proliferation,NAM,Namibia,Southern Africa,developing country,,,,,7.4,4.3
+Non-Proliferation,NPL,Nepal,Southern Asia,developing country,Least developed country,Landlocked developing country,,,4.2,3
+Non-Proliferation,NLD,Netherlands,Western Europe,developed country,,,,,14.8,-12.8
+Non-Proliferation,NZL,New Zealand,Australia and New Zealand,developed country,,,,,16.1,-3.7
+Non-Proliferation,NIC,Nicaragua,Central America,developing country,,,,,3,2.7
+Non-Proliferation,NER,Niger,Western Africa,developing country,Least developed country,Landlocked developing country,,,2.4,0
+Non-Proliferation,NGA,Nigeria,Western Africa,developing country,,,,,4.9,4.2
+Non-Proliferation,NOR,Norway,Northern Europe,developed country,,,,,13.5,-11.9
+Non-Proliferation,OMN,Oman,Western Asia,developing country,,,,,3.7,3.6
+Non-Proliferation,PAK,Pakistan,Southern Asia,developing country,,,,,13.3,4.2
+Non-Proliferation,PLW,Palau,Micronesia,developing country,,,Small island developing State,,4.1,-17.5
+Non-Proliferation,PAN,Panama,Central America,developing country,,,,,8.3,4
+Non-Proliferation,PNG,Papua New Guinea,Melanesia,developing country,,,Small island developing State,,6.9,1.7
+Non-Proliferation,PRY,Paraguay,South America,developing country,,Landlocked developing country,,,5.5,1.6
+Non-Proliferation,PER,Peru,South America,developing country,,,,,5.3,2.5
+Non-Proliferation,PHL,Philippines,South-Eastern Asia,developing country,,,,,4.6,3.2
+Non-Proliferation,POL,Poland,Eastern Europe,developed country,,,,,13.5,-14.6
+Non-Proliferation,QAT,Qatar,Western Asia,developing country,,,,,3.7,3.6
+Non-Proliferation,KOR,Republic of Korea,Eastern Asia,developing country,,,,,10.6,-7
+Non-Proliferation,MDA,Republic of Moldova,Eastern Europe,developed country,,Landlocked developing country,,,9.8,-10.9
+Non-Proliferation,ROU,Romania,Eastern Europe,developed country,,,,,12.4,-12.9
+Non-Proliferation,RWA,Rwanda,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,-0.4,-2.4
+Non-Proliferation,KNA,Saint Kitts and Nevis,Caribbean,developing country,,,Small island developing State,,1,-3.7
+Non-Proliferation,LCA,Saint Lucia,Caribbean,developing country,,,Small island developing State,,4.9,2.7
+Non-Proliferation,VCT,Saint Vincent and the Grenadines,Caribbean,developing country,,,Small island developing State,,3.2,0.8
+Non-Proliferation,WSM,Samoa,Polynesia,developing country,,,Small island developing State,,8.1,1.8
+Non-Proliferation,SMR,San Marino,Southern Europe,developed country,,,,,8.9,-12.1
+Non-Proliferation,STP,Sao Tome and Principe,Middle Africa,developing country,Least developed country,,Small island developing State,,10.8,1.2
+Non-Proliferation,SAU,Saudi Arabia,Western Asia,developing country,,,,,3,4
+Non-Proliferation,SEN,Senegal,Western Africa,developing country,Least developed country,,,,4.8,4
+Non-Proliferation,SYC,Seychelles,Eastern Africa,developing country,,,Small island developing State,,3,-6
+Non-Proliferation,SLE,Sierra Leone,Western Africa,developing country,Least developed country,,,,12.1,1.8
+Non-Proliferation,SGP,Singapore,South-Eastern Asia,developing country,,,Small island developing State,,4.8,3.4
+Non-Proliferation,SVK,Slovakia,Eastern Europe,developed country,,,,,14.5,-13
+Non-Proliferation,SLB,Solomon Islands,Melanesia,developing country,Least developed country,,Small island developing State,,6.4,2.2
+Non-Proliferation,SOM,Somalia,Eastern Africa,developing country,Least developed country,,,,-0.6,-4.2
+Non-Proliferation,ZAF,South Africa,Southern Africa,developing country,,,,,8.2,4.4
+Non-Proliferation,ESP,Spain,Southern Europe,developed country,,,,,12.6,-14.5
+Non-Proliferation,LKA,Sri Lanka,Southern Asia,developing country,,,,,4.9,3.6
+Non-Proliferation,SDN,Sudan,Northern Africa,developing country,Least developed country,,,,3.3,3.6
+Non-Proliferation,SWZ,Swaziland,Southern Africa,developing country,,Landlocked developing country,,,7.5,2.4
+Non-Proliferation,SYR,Syrian Arab Republic,Western Asia,developing country,,,,,-0.3,2.6
+Non-Proliferation,TJK,Tajikistan,Central Asia,developing country,,Landlocked developing country,,,6.2,-3.1
+Non-Proliferation,THA,Thailand,South-Eastern Asia,developing country,,,,,4.8,3.4
+Non-Proliferation,MKD,The former Yugoslav Republic of Macedonia,Southern Europe,developed country,,Landlocked developing country,,,13.2,-10.9
+Non-Proliferation,TGO,Togo,Western Africa,developing country,Least developed country,,,,5.6,3.5
+Non-Proliferation,TTO,Trinidad and Tobago,Caribbean,developing country,,,Small island developing State,,2,2.2
+Non-Proliferation,TUN,Tunisia,Northern Africa,developing country,,,,,4.1,3.6
+Non-Proliferation,TUR,Turkey,Western Asia,developing country,,,,,11.7,-14
+Non-Proliferation,TKM,Turkmenistan,Central Asia,developing country,,Landlocked developing country,,,9.1,1
+Non-Proliferation,UGA,Uganda,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,9.5,4
+Non-Proliferation,UKR,Ukraine,Eastern Europe,developed country,,,,,12.3,-8.1
+Non-Proliferation,ARE,United Arab Emirates,Western Asia,developing country,,,,,4.5,3.7
+Non-Proliferation,TZA,United Republic of Tanzania,Eastern Africa,developing country,Least developed country,,,,4.4,3.4
+Non-Proliferation,URY,Uruguay,South America,developing country,,,,,4.6,3.2
+Non-Proliferation,UZB,Uzbekistan,Central Asia,developing country,,Landlocked developing country,,,7.1,-5
+Non-Proliferation,VUT,Vanuatu,Melanesia,developing country,Least developed country,,Small island developing State,,0.8,-4.2
+Non-Proliferation,VEN,Venezuela (Bolivarian Republic of),South America,developing country,,,,,3.9,4.1
+Non-Proliferation,VNM,Viet Nam,South-Eastern Asia,developing country,,,,,4.7,3.5
+Non-Proliferation,YEM,Yemen,Western Asia,developing country,Least developed country,,,,3.5,3.9
+Non-Proliferation,ZMB,Zambia,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,5.2,3.7
+Non-Proliferation,ZWE,Zimbabwe,Eastern Africa,developing country,,Landlocked developing country,,,7.6,3
+Non-Proliferation,LBY,Libya,Northern Africa,developing country,,,,,0.8,-7.4
+Non-Proliferation,CPV,Cabo Verde,Western Africa,developing country,,,Small island developing State,,1.1,-8.9
+Non-Proliferation,KAZ,Kazakhstan,Central Asia,developing country,,Landlocked developing country,,,0.8,-7.3
+Non-Proliferation,KIR,Kiribati,Micronesia,developing country,Least developed country,,Small island developing State,,1.5,-9.2
+Non-Proliferation,MNE,Montenegro,Southern Europe,developed country,,,,,7.6,-12.4
+Non-Proliferation,NRU,Nauru,Micronesia,developing country,,,Small island developing State,,2.4,-10.6
+Non-Proliferation,SRB,Serbia,Southern Europe,developed country,,,,,6.5,-8.8
+Non-Proliferation,SSD,South Sudan,Eastern Africa,developing country,Least developed country,Landlocked developing country,,,3.1,-10.7
+Non-Proliferation,CHE,Switzerland,Western Europe,developed country,,,,,9.6,-11.7
+Non-Proliferation,TLS,Timor-Leste,South-Eastern Asia,developing country,Least developed country,,Small island developing State,,2,-2.9
+Non-Proliferation,TON,Tonga,Polynesia,developing country,,,Small island developing State,,1.3,-8
+Non-Proliferation,TUV,Tuvalu,Polynesia,developing country,Least developed country,,Small island developing State,,1.3,-5.5

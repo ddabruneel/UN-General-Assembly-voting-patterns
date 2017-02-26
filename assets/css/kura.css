@@ -1,0 +1,202 @@
+@media all {
+    
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300|Oswald');
+
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/material-design/MaterialIcons-Regular.eot'); /* For IE6-8 */
+  src: local('Material Icons'),
+       local('MaterialIcons-Regular'),
+       url('../fonts/material-design/MaterialIcons-Regular.woff2') format('woff2'),
+       url('../fonts/material-design/MaterialIcons-Regular.woff') format('woff'),
+       url('../fonts/material-design/MaterialIcons-Regular.ttf') format('truetype');
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 16px;  /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+  
+  /* Can add stroke around text if needed
+  -webkit-text-stroke: 1px black;
+  */
+    
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: 'liga';
+}
+
+/* Containers */    
+html,
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  background-color: #eeeeee;
+  color: #000000;
+  height: 100%;
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
+  width: 100%;
+}   
+    
+/* Main background container */
+.wrap {
+  position: absolute;
+  padding: 0px;
+  margin: 0px;
+  top: 0px;
+  left: 0px;
+  height: auto;
+  width: 100%;
+  background-color: #ffffff;
+  /*
+  background-color: #eeeeee;
+    */
+}
+
+.lightbox {
+    height: auto;
+    width: 98%;
+    margin: 0 auto;
+    padding: 5px;
+    display: inline-block;
+    background-color: #eeeeee;
+    /*
+    background-color: rgba(255,255,255,0.9);
+    -webkit-box-shadow: 0px 3px 7px rgba(0,0,0,0.25);
+    box-shadow: 0px 3px 7px rgba(0,0,0,0.25);
+    */
+}
+
+.viewport {
+    background-color: #eeeeee;
+    height: auto;
+    width: auto;
+    margin: auto;
+    padding: 0px;
+}
+
+.header {
+    padding: 0px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin: 0 auto;
+    width: 100%; 
+    height: 40px; 
+    border: 1px; 
+    border-style: solid;
+    border-color: #333333; 
+    vertical-align: middle; 
+    text-align: left;
+    box-shadow: 0px 3px 7px rgba(0,0,0,0.25);
+    -webkit-box-shadow: 0px 3px 7px rgba(0,0,0,0.25);
+}
+    
+.vis-pane {
+    background-color: #ffffff;
+    height: auto;
+    width: 900px;
+    padding: 10px;
+    margin: 0 auto;
+    /* border: 1px dashed #ccc; */
+    border: 0px solid #eee;
+    box-shadow: 0px 3px 7px rgba(0,0,0,0.25);
+    -webkit-box-shadow: 0px 3px 7px rgba(0,0,0,0.25);
+}
+    
+.vis-pane2 {
+    background-color: #ffffff;
+    height: auto;
+    width: 900px;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 5px;
+    /* border: 1px dashed #ccc; */
+    border: 0px solid #eee;
+    box-shadow: 0px 3px 7px rgba(0,0,0,0.25);
+    -webkit-box-shadow: 0px 3px 7px rgba(0,0,0,0.25);
+}
+    
+.report {
+    border:1px; 
+    border-style: solid; 
+    border-bottom-width: 0px; 
+    border-color: gray;
+}
+
+/* UI Components */
+select, select[size="0"], select[size="1"] {
+    border-width: 1px;
+    border-style: solid;
+    border-image: initial;
+    border-radius: 2px;
+    border-color: grey;
+    color: black;
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 11px;
+}
+
+.step5-bk {
+    background-color: #424242 !important; 
+    color: white !important;
+    -webkit-print-color-adjust: exact; 
+}
+
+
+/* For visualizations */
+    
+.tick line{
+    opacity: 0.2;
+  }
+    
+.d3-tip {
+  line-height: 1;
+  /* font-weight: bold; */
+  padding: 12px;
+  background: #f5f5f5;
+  color: #666666;
+  border-radius: 2px;
+  border: 1px solid #aaaaaa;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: #aaaaaa;
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+    
+}
+
