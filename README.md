@@ -1,21 +1,30 @@
-# GAChallenge
+# Welcome to Kura!
 
-I am happy to present this solution to the [UNGAviz - Textual Analytics and Visualization challenge](https://unite.un.org/ideas/content/ungaviz)
+Kura means "vote" in Swahili and is a  solution to the [UNGAviz - Textual Analytics and Visualization challenge](https://unite.un.org/ideas/content/ungaviz). The solution is based on Multidimensional Scaling as described below.
 
-- Data source: votes.csv
-Data was filtered to include only votes that happened since the year 2000.
+A live version of the solution is available [here](https://ddabruneel.github.io)
 
-Computation:
-First each vote was assigned a score as below
+## Data source
+The dataset used was [votes.csv](https://drive.google.com/file/d/0BzCpVV4_zQ2OcmVRTE1PWXJMTkU/view) which was offered as an unofficial dataset.
+
+General Assembly resolutions were filtered to include only resolutions that came to a vote, and for resolutions that took place after January 1st 2000.
+
+Each vote was assigned a score as below
   - Yes vote = 2
   - No show = 1
   - adstain or no = 0
 
-Second: A Distance Matrix calculation presented the votes for each pair of countries relative to each other.
+## Computation:
 
-Third: Votes were divided by topic based on the parsing of the title text field. 4 significant topics were identified. 
+First: A Distance Matrix calculation presented the votes for each pair of countries relative to each other.
 
-Fourth: MDS to map multidimension space into a two dimension space.
+Third: Votes were divided by topic based on the parsing of the title text field. Four topics with significant votes were identified:
+  - Disarmament
+  - Palestine
+  - Non-proliferation
+  - Human Rights
+
+Third: [MDS (Multidimensional Scaling)](https://en.wikipedia.org/wiki/Multidimensional_scaling) was used to map multidimension space into a two dimension space.
 
 Fifth: The result by topic is presented on a single graph, letting the user
 **This Git contains** the source code to 
