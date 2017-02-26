@@ -28,13 +28,11 @@ Votes were then computed into a Distance Matrix, presenting the distance between
 
 Finally, [MDS (Multidimensional Scaling)](https://en.wikipedia.org/wiki/Multidimensional_scaling) was used to map the distance matrix into a two dimension space.
 
-The result by topic is presented on a single graph, letting the user visualize.
+## Data visualization
 
+The visual rendering was created using HTML, CSS, [D3 Library](https://d3js.org/) and [AngularJS Platform](https://angularjs.org/)
 
-
-- Computation: Knime Analytics
-the Knime workflow is available to donwload here: 
-
+Enjoy!
 
 
 
