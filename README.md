@@ -12,7 +12,7 @@ General Assembly resolutions were filtered to include only resolutions that came
 Each vote was assigned a score as below
   - Yes vote = 2
   - No show = 1
-  - adstain or no = 0
+  - abstain or no = 0
 
 ## Computation:
 
