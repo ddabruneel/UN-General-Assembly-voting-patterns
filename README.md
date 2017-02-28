@@ -4,6 +4,17 @@ Kura means "vote" in Swahili and is a  solution to the [UNGAviz - Textual Analyt
 
 A live version of the solution is available [here](https://ddabruneel.github.io)
 
+## Usage
+The user is presented with one simple page with one graph.
+Each dot represent a country. the coordinate of the dot represent its voting pattern relative to other countries: Countries close to each other signify that their voting behavior is very similar. Countries far apart represent a sharp divergence of views.
+A user can choose from 3 drop down menus which allows to change:
+	- The topic of interest ("Human Rights", "Palestine", "Non-proliferation"
+	- The color of the dots (to highlight "Region", "Development Status", "HDI Category"  )
+	- The size of the dots ("HDI Score", "Global Peace Index", "State Fragility Index")
+A legend indicate the meaning of the various colors
+
+Hovering over a dot displays the country name and more.
+
 ## Data source
 The dataset used was [votes.csv](https://drive.google.com/file/d/0BzCpVV4_zQ2OcmVRTE1PWXJMTkU/view) which was offered as an unofficial dataset.
 
