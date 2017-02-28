@@ -13,7 +13,7 @@ A user can choose from 3 drop down menus which allows to change:
 - The size of the dots ("HDI Score", "Global Peace Index", "State Fragility Index")
 A legend indicate the meaning of the various colors
 
-Hovering over a dot displays the country name and more.
+Hovering over a dot displays the country name, Region, Development Status, Cound of Yes Votes for a particular topic, HDI score, Global Peace Index and State Fragility Index.
 
 ## Data source
 The dataset used was [votes.csv](https://drive.google.com/file/d/0BzCpVV4_zQ2OcmVRTE1PWXJMTkU/view) which was offered as an unofficial dataset.
