@@ -39,9 +39,13 @@ The idea for this solution was mainly inspired by these 2 papers:
 
 # Country Enriched data sources
 [Fragile States Index](http://fsi.fundforpeace.org/rankings-2016)
+
 [State Fragility Index](http://www.systemicpeace.org/inscrdata.html)
+
 [Global Peace Index](https://en.wikipedia.org/wiki/Global_Peace_Index)
+
 [Human Development Index](http://hdr.undp.org/en/composite/HDI)
+
 [UNStats](https://unstats.un.org/unsd/methods/m49/m49alpha.htm)
 
 # Moving forward
