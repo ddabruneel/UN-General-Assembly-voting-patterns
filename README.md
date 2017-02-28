@@ -18,8 +18,7 @@ Each vote was assigned a score as below
 
 All data computations were performed using [Knime analytics](https://www.knime.org/knime-analytics-platform), an open platform providing a comprehensite toolbox for data analysis.
 
-First, votes were divided by topic based on the parsing of the title text field. Four topics with significant votes were identified:
-  - Disarmament
+First, votes were divided by topic based on the parsing of the title text field. Three topics with significant votes were identified:
   - Palestine
   - Non-proliferation
   - Human Rights
@@ -31,6 +30,22 @@ Finally, [MDS (Multidimensional Scaling)](https://en.wikipedia.org/wiki/Multidim
 ## Data visualization
 
 The visual rendering was created using HTML, CSS, [D3 Library](https://d3js.org/) and [AngularJS Platform](https://angularjs.org/)
+
+# References 
+
+The idea for this solution was mainly inspired by these 2 papers:
+- Voeten, Erik. 2000. Clashes in the assembly. The IO Foundation and the Massachusetts Institute of Technology
+- Kim, Soo Yeon. Russett, Bruce. 1996. The new politics of voting alignments in the United Nations General Assembly. The IO Foundation and the Massachusetts Institute of Technology
+
+# Country Enriched data sources
+[Fragile States Index](http://fsi.fundforpeace.org/rankings-2016)
+[State Fragility Index](http://www.systemicpeace.org/inscrdata.html)
+[Global Peace Index](https://en.wikipedia.org/wiki/Global_Peace_Index)
+[Human Development Index](http://hdr.undp.org/en/composite/HDI)
+[UNStats](https://unstats.un.org/unsd/methods/m49/m49alpha.htm)
+
+# Moving forward
+The intention was mainly to showcase the potential of this approach. This platform could easily be enriched with additional data sources so an end-user can explore further potential relationships between votes and the characteristics of a country.
 
 Enjoy!
 
