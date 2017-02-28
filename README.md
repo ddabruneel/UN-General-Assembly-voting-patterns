@@ -31,13 +31,13 @@ Finally, [MDS (Multidimensional Scaling)](https://en.wikipedia.org/wiki/Multidim
 
 The visual rendering was created using HTML, CSS, [D3 Library](https://d3js.org/) and [AngularJS Platform](https://angularjs.org/)
 
-# References 
+## References 
 
 The idea for this solution was mainly inspired by these 2 papers:
 - Voeten, Erik. 2000. Clashes in the assembly. The IO Foundation and the Massachusetts Institute of Technology
 - Kim, Soo Yeon. Russett, Bruce. 1996. The new politics of voting alignments in the United Nations General Assembly. The IO Foundation and the Massachusetts Institute of Technology
 
-# Country Enriched data sources
+## Country Enriched data sources
 [Fragile States Index](http://fsi.fundforpeace.org/rankings-2016)
 
 [State Fragility Index](http://www.systemicpeace.org/inscrdata.html)
@@ -48,8 +48,8 @@ The idea for this solution was mainly inspired by these 2 papers:
 
 [UNStats](https://unstats.un.org/unsd/methods/m49/m49alpha.htm)
 
-# Moving forward
-The intention was mainly to showcase the potential of this approach. This platform could easily be enriched with additional data sources so an end-user can explore further potential relationships between votes and the characteristics of a country.
+## Moving forward
+The intention here was mainly to showcase the potential of this approach. This platform could easily be enriched with additional data sources, expended with additonal topics, different time periods, so an end-user can explore further potential relationships between votes and the characteristics of a country.
 
 Enjoy!
 
