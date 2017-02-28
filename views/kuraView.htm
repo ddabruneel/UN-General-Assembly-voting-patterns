@@ -1,5 +1,5 @@
 <!-- Main Container -->
-<div ng-init="filterData.Theme = 'Human Rights'" class="lightbox" >
+<div ng-init="filterData.Theme = 'human rights'" class="lightbox" >
 
 <!-- Title Bar -->
 <div class="vis-pane step5-bk" >
@@ -11,89 +11,28 @@
     
 <!-- Filter and Controls Pane -->
 <div class="vis-pane section group" style="padding-bottom: 5px; padding-top: 0px;">
+  
     
-<div class="col span_1_of_6" style="vertical-align: middle;">
-    <i class="material-icons" style="color: #0D47A1; vertical-align: middle;">fiber_manual_record</i>
-    <label style="font-size: 10px; vertical-align: middle;">N. America</label><br>
-
-    <i class="material-icons" style="color: #2196F3; vertical-align: middle;">fiber_manual_record</i>
-    <label style="font-size: 10px; vertical-align: middle;">Caribbean</label><br>
-
-    <i class="material-icons" style="color: #03A9F4; vertical-align: middle;">fiber_manual_record</i>
-        <label style="font-size: 10px; vertical-align: middle;">C. America</label><br>
-
-    <i class="material-icons" style="color: #00BCD4; vertical-align: middle;">fiber_manual_record</i>
-        <label style="font-size: 10px; vertical-align: middle;">S. America</label><br>
-
-</div>
-<div class="col span_1_of_6" style="vertical-align: middle;">
-    <i class="material-icons" style="color: #D50000; vertical-align: middle;">fiber_manual_record</i>
-    <label style="font-size: 10px; vertical-align: middle;">C. Asia</label><br>
-
-    <i class="material-icons" style="color: #FF1744; vertical-align: middle;">fiber_manual_record</i>
-    <label style="font-size: 10px; vertical-align: middle;">E. Asia</label><br>
-
-    <i class="material-icons" style="color: #FF5252; vertical-align: middle;">fiber_manual_record</i>
-    <label style="font-size: 10px; vertical-align: middle;">S.E. Asia</label><br>
-
-    <i class="material-icons" style="color: #FF8A80; vertical-align: middle;">fiber_manual_record</i>
-    <label style="font-size: 10px; vertical-align: middle;">S. Asia</label><br>
-
-    <i class="material-icons" style="color: #E57373; vertical-align: middle;">fiber_manual_record</i>
-    <label style="font-size: 10px; vertical-align: middle;">W. Asia</label><br>
-</div>
-
-<div class="col span_1_of_6" style="vertical-align: middle;">
-    <i class="material-icons" style="color: #00C853; vertical-align: middle;">fiber_manual_record</i>
-    <label style="font-size: 10px; vertical-align: middle;">E. Europe</label><br>
-
-    <i class="material-icons" style="color: #00E676; vertical-align: middle;">fiber_manual_record</i>
-    <label style="font-size: 10px; vertical-align: middle;">N. Europe</label><br>
-
-    <i class="material-icons" style="color: #64DD17; vertical-align: middle;">fiber_manual_record</i>
-    <label style="font-size: 10px; vertical-align: middle;">S. Europe</label><br>
-
-    <i class="material-icons" style="color: #AEEA00; vertical-align: middle;">fiber_manual_record</i>
-    <label style="font-size: 10px; vertical-align: middle;">W. Europe</label><br>
-</div>
-
-<div class="col span_1_of_6" style="vertical-align: middle;">
-    <i class="material-icons" style="color: #FF5722; vertical-align: middle;">fiber_manual_record</i>
-    <label style="font-size: 10px; vertical-align: middle;">E. Africa</label><br>
-
-    <i class="material-icons" style="color: #FF6D00; vertical-align: middle;">fiber_manual_record</i>
-    <label style="font-size: 10px; vertical-align: middle;">M. Africa</label><br>
-
-    <i class="material-icons" style="color: #FF9100; vertical-align: middle;">fiber_manual_record</i>
-    <label style="font-size: 10px; vertical-align: middle;">N. Africa</label><br>
-
-    <i class="material-icons" style="color: #FFAB40; vertical-align: middle;">fiber_manual_record</i>
-    <label style="font-size: 10px; vertical-align: middle;">S. Africa</label><br>
-
-    <i class="material-icons" style="color: #FFAB00; vertical-align: middle;">fiber_manual_record</i>
-    <label style="font-size: 10px; vertical-align: middle;">W. Africa</label><br>
-</div>
-
-<div class="col span_1_of_6" style="vertical-align: middle;">
-    <i class="material-icons" style="color: #6200EA; vertical-align: middle;">fiber_manual_record</i>
-    <label style="font-size: 10px; vertical-align: middle;">Australia / New Zealand</label><br>
-
-    <i class="material-icons" style="color: #651FFF; vertical-align: middle;">fiber_manual_record</i>
-    <label style="font-size: 10px; vertical-align: middle;">Melanesia</label><br>
-
-    <i class="material-icons" style="color: #7C4DFF; vertical-align: middle;">fiber_manual_record</i>
-    <label style="font-size: 10px; vertical-align: middle;">Micronesia</label><br>
-
-    <i class="material-icons" style="color: #B388FF; vertical-align: middle;">fiber_manual_record</i>
-    <label style="font-size: 10px; vertical-align: middle;">Polynesia</label><br>
-</div>
-    
-<div class="col span_1_of_6 dont-print" style="vertical-align: middle;">
+<div class="col span_2_of_6 dont-print" style="vertical-align: middle;">
 
     <label style="font-size: 10px; vertical-align: middle;">Topics:</label><br>   
     <select style="" ng-model="filterData.Theme" 
             ng-options="sel0.Theme as sel0.Theme for sel0 in KuraFile | unique: 'Theme'">
         <option value="">Select Topic Area</option>
+    </select>
+</div>
+<div ng-init="colorFilter = 'Region'" class="col span_2_of_6 dont-print" style="vertical-align: middle;">    
+    <label style="font-size: 10px; vertical-align: middle;">Topics:</label><br>   
+    <select style="" ng-model="colorFilter" 
+            ng-options="sel0 as sel0 for sel0 in ColorOpts">
+        <option value="">Color by:</option>
+    </select>
+ </div>   
+<div ng-init="sizeFilter = 'HDI Score'" class="col span_2_of_6 dont-print" style="vertical-align: middle;">    
+    <label style="font-size: 10px; vertical-align: middle;">Topics:</label><br>   
+    <select style="" ng-model="sizeFilter" 
+            ng-options="sel0 as sel0 for sel0 in SizeOpts">
+        <option value="">Size by:</option>
     </select>
     
 </div>
@@ -105,7 +44,7 @@
 <div class="vis-pane2" ng-repeat="v1 in KuraFile | filter:filterData | orderBy:'[Theme]' | groupBy: '[Theme]'">
     
     <!-- Directives Go Here -->
-    <div kura-view class="" data=v1></div>
+    <div kura-view class="" sizeby="sizeFilter" colorby="colorFilter" data=v1></div>
 </div>   
     
 </div>
