@@ -1,0 +1,168 @@
+scode,country,year,State Fragility Index,CountryId
+AFG,Afghanistan,2015,21,4
+ALB,Albania,2015,2,8
+ALG,Algeria,2015,12,12
+ANG,Angola,2015,16,24
+ARG,Argentina,2015,2,32
+ARM,Armenia,2015,6,51
+AUL,Australia,2015,2,36
+AUS,Austria,2015,0,40
+AZE,Azerbaijan,2015,10,31
+BAH,Bahrain,2015,9,48
+BNG,Bangladesh,2015,12,50
+BLR,Belarus,2015,3,112
+BEL,Belgium,2015,2,56
+BEN,Benin,2015,10,204
+BHU,Bhutan,2015,7,64
+BOL,Bolivia,2015,10,68
+BOS,Bosnia and Herzegovina,2015,4,70
+BOT,Botswana,2015,3,72
+BRA,Brazil,2015,5,76
+BUL,Bulgaria,2015,2,100
+BFO,Burkina Faso,2015,16,854
+BUI,Burundi,2015,21,108
+CAM,Cambodia,2015,11,116
+CAO,Cameroon,2015,16,120
+CAN,Canada,2015,0,124
+CAP,Cape Verde,2015,5,
+CEN,Central African Republic,2015,24,140
+CHA,Chad,2015,19,148
+CHL,Chile,2015,2,152
+CHN,China,2015,6,156
+COL,Colombia,2015,10,170
+COM,Comoros,2015,12,174
+CON,Congo-Brazzaville,2015,13,178
+COS,Costa Rica,2015,1,188
+IVO,Cote d'Ivoire,2015,17,384
+CRO,Croatia,2015,2,191
+CUB,Cuba,2015,5,192
+CYP,Cyprus,2015,3,196
+CZR,Czech Republic,2015,0,203
+ZAI,Dem. Rep. of Congo,2015,23,180
+DEN,Denmark,2015,0,208
+DJI,Djibouti,2015,13,262
+DOM,Dominican Republic,2015,4,214
+ECU,Ecuador,2015,8,218
+EGY,Egypt,2015,12,818
+SAL,El Salvador,2015,4,222
+EQG,Equatorial Guinea,2015,12,226
+ERI,Eritrea,2015,15,232
+EST,Estonia,2015,0,233
+ETI,Ethiopia,2015,19,231
+FJI,Fiji,2015,6,242
+FIN,Finland,2015,0,246
+FRN,France,2015,0,250
+GAB,Gabon,2015,10,266
+GAM,Gambia,2015,15,270
+GRG,Georgia,2015,6,268
+GMY,Germany,2015,0,276
+GHA,Ghana,2015,11,288
+GRC,Greece,2015,2,300
+GUA,Guatemala,2015,7,320
+GUI,Guinea,2015,18,324
+GNB,Guinea-Bissau,2015,17,624
+GUY,Guyana,2015,9,328
+HAI,Haiti,2015,15,332
+HON,Honduras,2015,7,340
+HUN,Hungary,2015,0,348
+IND,India,2015,12,356
+INS,Indonesia,2015,7,360
+IRN,Iran,2015,9,364
+IRQ,Iraq,2015,18,368
+IRE,Ireland,2015,0,372
+ISR,Israel,2015,7,376
+ITA,Italy,2015,0,380
+JAM,Jamaica,2015,3,388
+JPN,Japan,2015,0,392
+JOR,Jordan,2015,6,400
+KZK,Kazakhstan,2015,9,398
+KEN,Kenya,2015,10,404
+PRK,"Korea, North",2015,7,408
+ROK,"Korea, South",2015,1,410
+KOS,Kosovo,2015,7,
+KUW,Kuwait,2015,3,414
+KYR,Kyrgyzstan,2015,12,417
+LAO,Laos,2015,12,418
+LAT,Latvia,2015,0,428
+LEB,Lebanon,2015,5,422
+LES,Lesotho,2015,9,426
+LBR,Liberia,2015,15,430
+LIB,Libya,2015,13,434
+LIT,Lithuania,2015,1,440
+LUX,Luxembourg,2015,0,442
+MAC,Macedonia,2015,2,807
+MAG,Madagascar,2015,11,450
+MAW,Malawi,2015,14,454
+MAL,Malaysia,2015,5,458
+MLI,Mali,2015,16,466
+MAA,Mauritania,2015,16,478
+MAS,Mauritius,2015,1,480
+MEX,Mexico,2015,5,484
+MLD,Moldova,2015,8,498
+MON,Mongolia,2015,7,496
+MNT,Montenegro,2015,3,499
+MOR,Morocco,2015,6,504
+MZM,Mozambique,2015,11,508
+MYA,Myanmar,2015,18,104
+NAM,Namibia,2015,5,516
+NEP,Nepal,2015,12,524
+NTH,Netherlands,2015,0,528
+NEW,New Zealand,2015,2,554
+NIC,Nicaragua,2015,8,558
+NIR,Niger,2015,18,562
+NIG,Nigeria,2015,18,566
+NOR,Norway,2015,2,578
+OMA,Oman,2015,5,512
+PAK,Pakistan,2015,16,586
+PAN,Panama,2015,3,591
+PNG,Papua New Guinea,2015,11,598
+PAR,Paraguay,2015,9,600
+PER,Peru,2015,6,604
+PHI,Philippines,2015,12,608
+POL,Poland,2015,0,616
+POR,Portugal,2015,0,620
+QAT,Qatar,2015,3,634
+RUM,Romania,2015,4,642
+RUS,Russia,2015,9,643
+RWA,Rwanda,2015,16,646
+SAU,Saudi Arabia,2015,8,682
+SEN,Senegal,2015,10,686
+SER,Serbia,2015,4,688
+SIE,Sierra Leone,2015,14,694
+SIN,Singapore,2015,2,702
+SLO,Slovak Republic,2015,1,703
+SLV,Slovenia,2015,0,705
+SOL,Solomon Islands,2015,9,90
+SOM,Somalia,2015,20,706
+SAF,South Africa,2015,8,710
+SSU,South Sudan,2015,22,728
+SPN,Spain,2015,0,724
+SRI,Sri Lanka,2015,11,144
+SDN,Sudan (North),2015,22,729
+SUR,Suriname,2015,6,740
+SWA,Swaziland,2015,9,748
+SWD,Sweden,2015,0,752
+SWZ,Switzerland,2015,1,756
+SYR,Syria,2015,16,760
+TAW,Taiwan,2015,0,
+TAJ,Tajikistan,2015,12,762
+TAZ,Tanzania,2015,11,834
+THI,Thailand,2015,5,764
+ETM,Timor Leste,2015,7,626
+TOG,Togo,2015,13,768
+TRI,Trinidad and Tobago,2015,4,780
+TUN,Tunisia,2015,4,788
+TUR,Turkey,2015,9,792
+TKM,Turkmenistan,2015,9,795
+UGA,Uganda,2015,17,800
+UKR,Ukraine,2015,9,804
+UAE,United Arab Emirates,2015,4,784
+UKG,United Kingdom,2015,0,826
+USA,United States,2015,3,840
+URU,Uruguay,2015,2,858
+UZB,Uzbekistan,2015,12,860
+VEN,Venezuela,2015,11,862
+VIE,Vietnam,2015,7,704
+YEM,Yemen,2015,21,887
+ZAM,Zambia,2015,12,894
+ZIM,Zimbabwe,2015,17,716

@@ -1,0 +1,164 @@
+Economy,Year,Global Peace Index,CountryId
+Afghanistan,2016,3.538,4
+Albania,2016,1.867,8
+Algeria,2016,2.213,12
+Angola,2016,2.140,24
+Argentina,2016,1.957,32
+Armenia,2016,2.218,51
+Australia,2016,1.465,36
+Austria,2016,1.278,40
+Azerbaijan,2016,2.450,31
+Bahrain,2016,2.398,48
+Bangladesh,2016,2.045,50
+Belarus,2016,2.202,112
+Belgium,2016,1.528,56
+Benin,2016,1.998,204
+Bhutan,2016,1.445,64
+Bolivia (Plurinational State of),2016,2.038,68
+Bosnia and Herzegovina,2016,1.915,70
+Botswana,2016,1.639,72
+Brazil,2016,2.176,76
+Bulgaria,2016,1.646,100
+Burkina Faso,2016,2.063,854
+Burundi,2016,2.500,108
+Cambodia,2016,2.161,116
+Cameroon,2016,2.356,120
+Canada,2016,1.388,124
+Central African Republic,2016,3.354,140
+Chad,2016,2.464,148
+Chile,2016,1.635,152
+China,2016,2.288,156
+"China, Taiwan Province of",2016,1.787,
+Colombia,2016,2.764,170
+Congo,2016,2.249,178
+Costa Rica,2016,1.699,188
+Côte d'Ivoire,2016,2.279,384
+Croatia,2016,1.633,191
+Cuba,2016,2.057,192
+Cyprus,2016,1.994,196
+Czech Republic,2016,1.360,203
+Dem. Rep. of the Congo,2016,3.112,180
+Denmark,2016,1.246,208
+Djibouti,2016,2.292,262
+Dominican Republic,2016,2.143,214
+Ecuador,2016,2.020,218
+Egypt,2016,2.574,818
+El Salvador,2016,2.237,222
+Equatorial Guinea,2016,1.940,226
+Eritrea,2016,2.460,232
+Estonia,2016,1.732,233
+Ethiopia,2016,2.284,231
+Finland,2016,1.429,246
+France,2016,1.829,250
+Gabon,2016,2.033,266
+Gambia,2016,2.091,270
+Georgia,2016,2.057,268
+Germany,2016,1.486,276
+Ghana,2016,1.809,288
+Greece,2016,2.044,300
+Guatemala,2016,2.270,320
+Guinea,2016,2.148,324
+Guinea-Bissau,2016,2.264,624
+Guyana,2016,2.105,328
+Haiti,2016,2.066,332
+Honduras,2016,2.237,340
+Hungary,2016,1.534,348
+Iceland,2016,1.192,352
+India,2016,2.566,356
+Indonesia,2016,1.799,360
+Iran (Islamic Republic of),2016,2.411,364
+Iraq,2016,3.570,368
+Ireland,2016,1.433,372
+Israel,2016,2.656,376
+Italy,2016,1.774,380
+Jamaica,2016,2.091,388
+Japan,2016,1.395,392
+Jordan,2016,2.127,400
+Kazakhstan,2016,2.019,398
+Kenya,2016,2.379,404
+"Korea, Dem. People's Rep. of",2016,2.944,408
+"Korea, Republic of",2016,1.858,410
+"Kosovo, Internationally Administered Territory",2016,2.022,
+Kuwait,2016,1.842,414
+Kyrgyzstan,2016,2.297,417
+Lao People's Dem. Rep.,2016,1.852,418
+Latvia,2016,1.680,428
+Lebanon,2016,2.752,422
+Lesotho,2016,1.941,426
+Liberia,2016,1.998,430
+Libya,2016,3.200,434
+Lithuania,2016,1.735,440
+Madagascar,2016,1.763,450
+Malawi,2016,1.817,454
+Malaysia,2016,1.648,458
+Mali,2016,2.489,466
+Mauritania,2016,2.295,478
+Mauritius,2016,1.559,480
+Mexico,2016,2.557,484
+Mongolia,2016,1.838,496
+Montenegro,2016,1.884,499
+Morocco,2016,2.086,504
+Mozambique,2016,1.963,508
+Myanmar,2016,2.256,104
+Namibia,2016,1.873,516
+Nepal,2016,2.026,524
+Netherlands,2016,1.541,528
+New Zealand,2016,1.287,554
+Nicaragua,2016,1.975,558
+Niger,2016,2.239,562
+Nigeria,2016,2.877,566
+Norway,2016,1.500,578
+Oman,2016,2.016,512
+Pakistan,2016,3.145,586
+Panama,2016,1.837,591
+Papua New Guinea,2016,2.143,598
+Paraguay,2016,2.037,600
+Peru,2016,2.057,604
+Philippines,2016,2.511,608
+Poland,2016,1.557,616
+Portugal,2016,1.356,620
+Qatar,2016,1.716,634
+Republic of Moldova,2016,1.953,498
+Romania,2016,1.649,642
+Russian Federation,2016,3.079,643
+Rwanda,2016,2.323,646
+Saudi Arabia,2016,2.338,682
+Senegal,2016,1.978,686
+Serbia,2016,1.834,688
+Sierra Leone,2016,1.805,694
+Singapore,2016,1.535,702
+Slovakia,2016,1.603,703
+Slovenia,2016,1.408,705
+Somalia,2016,3.414,706
+South Africa,2016,2.316,710
+South Sudan,2016,3.593,728
+Spain,2016,1.604,724
+Sri Lanka,2016,2.133,144
+State of Palestine,2016,2.832,275
+Sudan,2016,3.269,729
+Swaziland,2016,2.074,748
+Sweden,2016,1.461,752
+Switzerland,2016,1.370,756
+Syrian Arab Republic,2016,3.806,760
+Tajikistan,2016,2.293,762
+TFYR of Macedonia,2016,2.092,807
+Thailand,2016,2.312,764
+Timor-Leste,2016,1.879,626
+Togo,2016,1.954,768
+Trinidad and Tobago,2016,2.056,780
+Tunisia,2016,1.949,788
+Turkey,2016,2.710,792
+Turkmenistan,2016,2.202,795
+Uganda,2016,2.148,800
+Ukraine,2016,3.287,804
+United Arab Emirates,2016,1.931,784
+United Kingdom,2016,1.830,826
+United Republic of Tanzania,2016,1.899,834
+United States,2016,2.154,840
+Uruguay,2016,1.726,858
+Uzbekistan,2016,2.216,860
+Venezuela (Bolivarian Rep. of),2016,2.651,862
+Viet Nam,2016,1.906,704
+Yemen,2016,3.399,887
+Zambia,2016,1.783,894
+Zimbabwe,2016,2.322,716
