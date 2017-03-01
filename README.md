@@ -10,7 +10,8 @@ Each dot represent a country. the coordinate of the dot represent its voting pat
 A user can choose from 3 drop down menus which allows to change:
 - The topic of interest ("Human Rights", "Palestine", "Non-proliferation"
 - The color of the dots (to highlight "Region", "Development Status", "HDI Category"  )
-- The size of the dots ("HDI Score", "Global Peace Index", "State Fragility Index")
+- The size of the dots ("HDI Score", "Global Peace Index", "State Fragility Index", "set size"). Note that "set size" just realign all shapes to a default size.
+- The shape of the dots ("Development Status", "Circle"). Note that again the last option "Circle" just assign a circle to all dots.
 A legend indicate the meaning of the various colors
 
 Hovering over a dot displays the country name, Region, Development Status, Cound of Yes Votes for a particular topic, HDI score, Global Peace Index and State Fragility Index.
