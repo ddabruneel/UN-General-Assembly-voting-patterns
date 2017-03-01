@@ -1,5 +1,5 @@
 <!-- Main Container -->
-<div ng-init="filterData.Theme = 'human rights'" class="lightbox" >
+<div  class="lightbox" >
 
 <!-- Title Bar -->
 <div class="vis-pane step5-bk" >
@@ -13,30 +13,36 @@
 <div class="vis-pane section group" style="padding-bottom: 5px; padding-top: 0px;">
   
     
-<div class="col span_2_of_6 dont-print" style="vertical-align: middle;">
+<div class="col col span_2_of_6" style="vertical-align: middle;">
 
-    <label style="font-size: 10px; vertical-align: middle;">Topics:</label><br>   
-    <select style="" ng-model="filterData.Theme" 
+    <label style="font-size: 10px; vertical-align: middle;">Topics:</label>   
+    <select ng-init="filterData.Theme = 'human rights'" style="" ng-model="filterData.Theme" 
             ng-options="sel0.Theme as sel0.Theme for sel0 in KuraFile | unique: 'Theme'">
         <option value="">Select Topic Area</option>
     </select>
-</div>
-<div ng-init="colorFilter = 'Region'" class="col span_2_of_6 dont-print" style="vertical-align: middle;">    
-    <label style="font-size: 10px; vertical-align: middle;">Topics:</label><br>   
-    <select style="" ng-model="colorFilter" 
+
+</div>  
+<div class="col col span_4_of_6" style="vertical-align: middle;">
+    <label style="font-size: 10px; vertical-align: middle;">Color by:</label>   
+    <select ng-init="colorFilter = 'Region'" style="" ng-model="colorFilter" 
             ng-options="sel0 as sel0 for sel0 in ColorOpts">
         <option value="">Color by:</option>
-    </select>
- </div>   
-<div ng-init="sizeFilter = 'HDI Score'" class="col span_2_of_6 dont-print" style="vertical-align: middle;">    
-    <label style="font-size: 10px; vertical-align: middle;">Topics:</label><br>   
-    <select style="" ng-model="sizeFilter" 
+    </select> 
+
+   
+    <label style="font-size: 10px; vertical-align: middle;">Size by:</label>   
+    <select ng-init="sizeFilter = 'HDI Score'" style="" ng-model="sizeFilter" 
             ng-options="sel0 as sel0 for sel0 in SizeOpts">
         <option value="">Size by:</option>
     </select>
     
-</div>
+    <label style="font-size: 10px; vertical-align: middle;">Shape by:</label>   
+    <select ng-init="shapeFilter = 'Circle'" style="" ng-model="shapeFilter" 
+            ng-options="sel0 as sel0 for sel0 in ShapeOpts">
+        <option value="">Shape by:</option>
+    </select>
 
+</div>
 </div>
                
 
@@ -44,7 +50,7 @@
 <div class="vis-pane2" ng-repeat="v1 in KuraFile | filter:filterData | orderBy:'[Theme]' | groupBy: '[Theme]'">
     
     <!-- Directives Go Here -->
-    <div kura-view class="" sizeby="sizeFilter" colorby="colorFilter" data=v1></div>
+    <div kura-view class="" sizeby="sizeFilter" colorby="colorFilter" shapeby="shapeFilter" data=v1></div>
 </div>   
     
 </div>

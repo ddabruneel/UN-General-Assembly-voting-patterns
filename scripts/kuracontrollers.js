@@ -9,8 +9,10 @@ angular.module('kura.controllers', [])
       $scope.ColorOpts = ["Region", "Development Status", "HDI Category"];
       // $scope.VisColors = ["Region", "HDI", "GPI", "SFI"];
       
-      $scope.SizeOpts = ["HDI Score", "Global Peace Index", "State Fragility Index"];
+      $scope.SizeOpts = ["Set Size", "HDI Score", "Global Peace Index", "State Fragility Index"];
       // $scope.VisColors = ["HDI", "GPI", "XYZ"];
+      
+      $scope.ShapeOpts = ["Development Status", "Circle"];
  
       $scope.getKuraFile = function getKuraFile(str) {
    

@@ -9,6 +9,7 @@ angular.module('kura.directives',[])
             data: '=',
             colorby: '=?',
             sizeby: '=?',
+            shapeby: '=?',
         },
 		link : function(scope, element, attr) {
 
@@ -55,6 +56,16 @@ angular.module('kura.directives',[])
                 return sizes;
               };
             
+            scope.getShapeBy = function() {
+                var shapes = null;
+                if (scope.shapeby) {
+                  shapes = scope.shapeby;
+                } else {
+                  shapes = null;
+                }
+                return shapes;
+              };
+            
         // Data Provider Watch
         scope.$watch('dataFile', function (dataFile) {
             console.log("dataFile has changed");
@@ -71,6 +82,13 @@ angular.module('kura.directives',[])
         scope.$watch('sizeby', function (dataFile) {
             console.log("Size has changed");
             console.log(scope.sizeby);
+            svg.selectAll("*").remove();
+            scope.render(scope.data);
+         });
+            
+        scope.$watch('shapeby', function (dataFile) {
+            console.log("Shape has changed");
+            console.log(scope.shapeby);
             svg.selectAll("*").remove();
             scope.render(scope.data);
          });
@@ -114,6 +132,7 @@ angular.module('kura.directives',[])
 		
             var colorValues = scope.getColorBy();
             var sizeValues = scope.getSizeBy();
+            var shapeValues = scope.getShapeBy();
             
         data.forEach(function(d) {
                     d.ccode = d.CountryCode;
@@ -201,8 +220,16 @@ angular.module('kura.directives',[])
                 .domain(["developing country", 
                          "developed country"])
                 
-                .range(["#FFAB00", // developing country
-                        "#AEEA00"]); // developed country
+                .range(["#2196F3", // developing country
+                        "#FF5252"]); // developed country
+            
+        var DevStatusShape = d3.scale.ordinal()
+                .domain(["developing country", 
+                         "developed country"])
+                
+                .range(["square", // developing country
+                        "triangle-up"]); // developed country
+        //["circle", "cross", "diamond", "square", "triangle-down", "triangle-up"] 
             
         var open_max = d3.max(data, function(d) { if (scope.sizeby == "HDI Score") {
                                                             return d.hdi;
@@ -216,6 +243,8 @@ angular.module('kura.directives',[])
                         // var open_max = data[0].domainmax;
 
         var radius = d3.scale.quantize().domain([0,open_max]).range([3,5,8,10]);
+            
+        var radius2 = d3.scale.quantize().domain([0,open_max]).range([35,65,95,130]);
             
         var tooltip = d3.tip()
           .attr('class', 'd3-tip')
@@ -251,6 +280,7 @@ angular.module('kura.directives',[])
                         .attr("transform", "translate(" + width + ",0)")
                         .call(yAxis2);
             
+            /*
             kurachart.selectAll(".dot")
                         .data(data)
                         .enter().append("circle")
@@ -260,7 +290,9 @@ angular.module('kura.directives',[])
                        // .attr("r", function (d) { return quantile(d.col1); })
                         //  .attr("r", function(d) { return radius(d.hdi); })
                        //   .attr("r", "3")
-                            .attr("r", function(d) {if (scope.sizeby == "HDI Score") {
+                            .attr("r", function(d) {if (scope.sizeby == "Set Size") {
+                                                            return 5;
+                                                            } else if (scope.sizeby == "HDI Score") {
                                                             return radius(d.hdi);
                                                             } else if (scope.sizeby == "Global Peace Index") {
                                                             return radius(d.gpi);
@@ -299,36 +331,55 @@ angular.module('kura.directives',[])
                         .on('mouseover', tooltip.show)
                         .on('mouseout', tooltip.hide);
             
-            // Need to hard code CSS styles
-            kurachart.selectAll(".axis line, .axis path")
-                        .style("fill", "none")
-                        .style("stroke", "#777777")
-                        .style("opacity", 0.5)
-                        .style("shape-rendering", "crispEdges");
-                        
-            kurachart.selectAll(".tick line")
-                        .style("opacity", 0.2)
-                        .style("shape-rendering", "crispEdges");
+                */
+                kurachart.selectAll(".point")
+                  .data(data)
+                .enter().append("path")
+                  .attr("class", "point")
+                  .style("stroke", function (d) { if (scope.colorby == "Region") {
+                                                            return RegionColor(d.region);
+                                                            } else if (scope.colorby == "Development Status") {
+                                                            return DevStatusColor(d.devstatus);
+                                                            } else if (scope.colorby == "HDI Category") {
+                                                            return HdiStatusColor(d.hdicat);
+                                                            }  else {
+                                                            return (colorValues);
+                                                            }})
+                  .style("fill", function (d) { if (scope.colorby == "Region") {
+                                                            return RegionColor(d.region);
+                                                            } else if (scope.colorby == "Development Status") {
+                                                            return DevStatusColor(d.devstatus);
+                                                            } else if (scope.colorby == "HDI Category") {
+                                                            return HdiStatusColor(d.hdicat);
+                                                            }  else {
+                                                            return (colorValues);
+                                                            }})
+                
+                    .attr("d", d3.svg.symbol().type(function (d) { if (scope.shapeby == "Circle") {
+                                                            return "circle";
+                                                            } else if (scope.shapeby == "Development Status") {
+                                                            return DevStatusShape(d.devstatus);
+                                                            }}).size(function (d) { if (scope.sizeby == "Set Size") {
+                                                            return 100;
+                                                            } else if (scope.sizeby == "HDI Score") {
+                                                            return radius2(d.hdi);
+                                                            } else if (scope.sizeby == "Global Peace Index") {
+                                                            return radius2(d.gpi);
+                                                            } else if (scope.sizeby == "State Fragility Index") {
+                                                            return radius2(d.sfi);
+                                                            }  else {
+                                                            return radius2(d.hdi);
+                                                            }}))
+                  .style("fill-opacity", 0.6)
+                  .attr("transform", function(d) { return "translate(" 
+                        + x(d.col1) + "," + y(d.col2) + ")";})
+                  // .attr("transform", "scale(0.8)")
+                  .on('mouseover', tooltip.show)
+                  .on('mouseout', tooltip.hide);
             
-            kurachart.selectAll("text")
-                        .style("font-family", "Open Sans Condensed, monospace")
-                        .style("font-size", "11px")
-                        // .style("font-weight", 300)
-                        .style("color", "#AAAAAA");
+             
             
-//svg.selectAll(".point")
-//      .data(data)
-//    .enter().append("path")
-//      .attr("class", "point")
-//      .attr("d", d3.svg.symbol().type("triangle-up"))
-//      .attr("transform", function(d) { return "translate(" + x(d.x) + "," + y(d.y) + ")"; });
-
-
-//Shape types are:
-
-//["circle", "cross", "diamond", "square", "triangle-down", "triangle-up"]            
-            
-// add legend   
+            // add legend   
             var legend = svg.append("g")
               .attr("class", "legend")
               .attr("x", 650)
@@ -374,11 +425,29 @@ angular.module('kura.directives',[])
                   .attr("y", i * 15 + 8)
                   .attr("height",30)
                   .attr("width",100)
-                  .style("color", "#AAAAAA")
+                  .style("color", "#cccccc")
                   .style("font-family", "Open Sans Condensed, monospace")
                   .style("font-size", "11px")
                   .text(function (d) { return (d); });
             });
+            
+            // Need to hard code CSS styles
+            kurachart.selectAll(".axis line, .axis path")
+                        .style("fill", "none")
+                        .style("stroke", "#777777")
+                        .style("opacity", 0.5)
+                        .style("shape-rendering", "crispEdges");
+                        
+            kurachart.selectAll(".tick line")
+                        .style("opacity", 0.2)
+                        .style("shape-rendering", "crispEdges");
+            
+            kurachart.selectAll("text")
+                        .style("font-family", "Open Sans Condensed, monospace")
+                        .style("font-size", "10px")
+                        // .style("font-weight", 300)
+                        .style("fill-opacity", 0.0)
+                        .style("fill", "#ffffff");           
                 
             }; // end render function            
 		} // end link function
