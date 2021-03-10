@@ -2,7 +2,7 @@
 
 Kura means "vote" in Swahili and is a  solution to the [UNGAviz - Textual Analytics and Visualization challenge](https://unite.un.org/ideas/content/ungaviz). The solution is based on Multidimensional Scaling as described below.
 
-A live version of the solution is available [here](https://ddabruneel.github.io)
+A live version of the solution is available [here](https://ddabruneel.github.io/UN-General-Assembly-voting-patterns)
 
 ## Usage
 The user is presented with one simple page with one graph.
